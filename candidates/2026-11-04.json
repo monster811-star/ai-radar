@@ -1,0 +1,36 @@
+[
+  {
+    "id": "livex-ai-city-20261103",
+    "date_announced": "2026-11-03",
+    "title": "사람처럼 말 거는 매장 안내 아바타",
+    "company": "LiveX AI",
+    "product": "AI City",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "등신대 AI 아바타가 화면에 떠서 손님을 보고 듣고 대화한다. 길 안내·추천·실시간 통역까지 사람 직원처럼 돕는다.",
+    "categories": ["매장·리테일", "새 입력 방식"],
+    "idea": "매장 입구에 말 거는 안내 아바타 세우기",
+    "novelty": 4,
+    "popularity": 38,
+    "source_url": "https://siliconangle.com/2026/11/03/livex-brings-engaging-ai-powered-intelligent-human-sized-avatar-kiosks-to-retail-and-airport-sites/",
+    "status": "확인됨",
+    "evidence": "SiliconANGLE(2026-11-03): 등신대 대화형 AI 아바타 키오스크 'AI City' 공개, PUMA 매장·산호세 공항 등 100개 이상 사이트 배치. 트레이드 매체 위주 보도(SiliconANGLE·superpowerdaily·Yahoo), 메이저 주요 매체·소셜 화제 약함 → popularity 38"
+  },
+  {
+    "id": "livebuzz-goldie-20261103",
+    "date_announced": "2026-11-03",
+    "title": "말하고 추천하는 황금 쇼핑카트",
+    "company": "Live Buzz Intelligence",
+    "product": "Goldie",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "얼굴과 목소리를 가진 황금 쇼핑카트가 손님과 대화하며 추천한다. 입구의 2m 홀로그램이 안내하고 취향을 기억한다.",
+    "categories": ["매장·리테일"],
+    "idea": "매장에 말 거는 캐릭터 카트 들이기",
+    "novelty": 4,
+    "popularity": 26,
+    "source_url": "https://www.globenewswire.com/news-release/2026/11/03/3394679/0/en/the-future-of-in-store-retail-arrives-with-ai-holograms.html",
+    "status": "확인됨",
+    "evidence": "GlobeNewswire(2026-11-03)·RetailTechInnovationHub(2026-11-03): 네이플스 Seed to Table 매장에 감정형 대화 황금카트 'Goldie'+2m Proto 홀로그램 도입. 보도자료+소수 니치 리테일 트레이드만 픽업, 단일 매장 → popularity 26"
+  }
+]
