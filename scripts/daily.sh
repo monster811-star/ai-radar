@@ -12,5 +12,12 @@ claude -p "UPDATE.md 절차를 오늘(${TODAY}) 기준으로 그대로 실행해
 4) 마지막에 추가한 항목 수와 게시 결과를 한 줄로 출력한다." \
   --permission-mode acceptEdits \
   --allowedTools "WebSearch,WebFetch,Read,Write,Edit,Bash(python3 scripts/*),Bash(rm images/*),Bash(ls *)"
+echo "--- GitHub Pages 배포 (git push) ---"
+git add -A
+if git diff --cached --quiet; then
+  echo "변경 없음 · 푸시 생략"
+else
+  git commit -q -m "일일 업데이트 ${TODAY}" && git push origin main && echo "푸시 완료 · 사이트 갱신됨"
+fi
 echo "=== $(date '+%F %T') 종료 (코드 $?)"
 } >> "logs/${TODAY}.log" 2>&1
