@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ghost-core-20261031",
+    "date_announced": "2026-10-31",
+    "title": "화면 없이 AI만 돌리는 본체",
+    "company": "Ghost",
+    "product": "Core",
+    "price": "$3,499",
+    "availability": "출시",
+    "what_is_new": "화면도 키보드도 없는 작은 본체가 집에서 AI 비서를 직접 돌린다. 데이터를 밖으로 안 보내고 기기 안에서 처리한다.",
+    "categories": ["홈·로봇"],
+    "idea": "매장 안내 AI를 자체 본체로 돌려 개인정보 지키기",
+    "novelty": 4,
+    "popularity": 54,
+    "source_url": "https://ghost.ai/core",
+    "status": "확인됨",
+    "evidence": "TechCrunch(2026-10-05) 스텔스 공개·a16z $11M, 여러 매체(TechRadar·SiliconANGLE·Digg): 첫 배치 매진, 2026-10-31 배송 시작(출시). 화면·키보드 없는 온디바이스 개인 AI 본체"
+  }
+]

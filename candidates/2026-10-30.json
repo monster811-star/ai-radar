@@ -1,0 +1,34 @@
+[
+  {
+    "id": "maybelline-chatgpt-tryon-20261029",
+    "date_announced": "2026-10-29",
+    "title": "챗GPT에서 해보는 메이크업 피팅",
+    "company": "Maybelline",
+    "product": "Makeup Virtual Try-On (ChatGPT)",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "챗GPT 앱에서 메이크업을 묻고 카메라나 사진으로 색조를 바로 입혀 본다. 추천부터 살 곳 찾기까지 한 대화로 이어진다.",
+    "categories": ["패션·뷰티", "쇼핑·결제"],
+    "idea": "대화창에서 안경을 바로 써보게 만들기",
+    "novelty": 4,
+    "source_url": "https://www.prnewswire.com/news-releases/maybelline-new-york-becomes-the-first-beauty-brand-to-bring-real-time-makeup-virtual-try-on-to-chatgpt-302922829.html",
+    "status": "확인됨",
+    "evidence": "PR Newswire 보도자료 2026-10-29 'becomes the first beauty brand to bring real-time makeup virtual try-on to ChatGPT', 'live as of October 29'"
+  },
+  {
+    "id": "meta-style-sketch-20261029",
+    "date_announced": "2026-10-29",
+    "title": "인스타 사진으로 옷장 만드는 코디 앱",
+    "company": "Meta",
+    "product": "Style Sketch",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "인스타그램 사진으로 디지털 옷장을 만들고 가진 옷을 중심으로 새 코디를 제안한다. 내 체형 모델에 입혀 볼 수 있다.",
+    "categories": ["패션·뷰티", "SNS 트렌드"],
+    "idea": "고객 인스타 사진으로 안경 코디 추천하기",
+    "novelty": 3,
+    "source_url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+    "status": "확인됨",
+    "evidence": "TechCrunch 2026-10-29 'Meta quietly launches an AI fashion app called Style Sketch', iOS/Android 출시 지역 인도네시아·싱가포르·태국"
+  }
+]

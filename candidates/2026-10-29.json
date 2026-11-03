@@ -1,0 +1,205 @@
+[
+  {
+    "id": "xreal-aura-20261028",
+    "date_announced": "2026-10-28",
+    "title": "허리 퍼크로 돌아가는 AI 화면 안경",
+    "company": "XREAL",
+    "product": "XREAL Aura",
+    "price": "$1,279",
+    "availability": "사전예약",
+    "what_is_new": "안경 앞에 큰 화면이 뜨고, 계산은 허리에 차는 작은 본체가 맡습니다. 말·손짓·컨트롤러로 조작하고 AI 비서 전용 버튼이 있습니다.",
+    "categories": [
+      "웨어러블·안경",
+      "새 입력 방식"
+    ],
+    "idea": "무거운 부품은 벨트·가방에 넣고 안경은 가볍게 만들기",
+    "novelty": 3,
+    "source_url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr",
+    "status": "확인됨",
+    "evidence": "TechCrunch dated Oct 28, 2026 10:00 AM PDT: orders open in US, Canada, Japan, South Korea; $1,279 ($1,099 through December); ships mid-November. Digit.in confirms preorders opened Oct 28 at XREAL.com and Best Buy."
+  },
+  {
+    "id": "amazon-alexa-photo-frame-20261028",
+    "date_announced": "2026-10-28",
+    "title": "AI가 사진을 골라 거는 액자",
+    "company": "Amazon",
+    "product": "Alexa Photo Frame",
+    "price": "$199.99",
+    "availability": "출시",
+    "what_is_new": "AI가 잘 나온 인물 사진과 계절에 맞는 사진을 알아서 골라 보여줍니다. 영수증·캡처 화면은 거르고 사진에 음성 메모도 붙입니다.",
+    "categories": [
+      "홈·로봇"
+    ],
+    "idea": "매장 디스플레이에 계절·시간대별 화보를 AI가 자동 큐레이션하기",
+    "novelty": 3,
+    "source_url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+    "status": "확인됨",
+    "evidence": "TechCrunch Oct 28, 2026 7:34 AM PDT: 'Amazon debuts the Alexa Photo Frame...'; 10-inch screen, Alexa+ picks photos; $199.99 black / $229 wood; on sale now."
+  },
+  {
+    "id": "amazon-echo-time-20261028",
+    "date_announced": "2026-10-28",
+    "title": "잠 깊이 보고 깨워주는 AI 탁상시계",
+    "company": "Amazon",
+    "product": "Echo Time",
+    "price": "$199.99",
+    "availability": "공개만",
+    "what_is_new": "침대 옆 시계가 수면 상태를 감지해 얕게 잘 때 깨워줍니다. 해 뜨는 듯한 빛으로 휴대폰 없이 아침을 시작하게 합니다.",
+    "categories": [
+      "홈·로봇"
+    ],
+    "idea": "휴대폰 대신 쓰는 침실용 소품을 브랜드 디자인으로 만들기",
+    "novelty": 3,
+    "source_url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+    "status": "확인됨",
+    "evidence": "TechCrunch Oct 28, 2026: Echo Time smart alarm clock with opt-in sleep sensing (wake within 10-60 min window), sunrise simulation; $199.99, Kids $209.99; ship date not stated."
+  },
+  {
+    "id": "brilliantlabs-halo-20261027",
+    "date_announced": "2026-10-27",
+    "title": "말로 앱을 만드는 AI 안경",
+    "company": "Brilliant Labs",
+    "product": "Halo",
+    "price": "$399",
+    "availability": "출시",
+    "what_is_new": "40g 남짓 안경에 컬러 화면과 대화를 기억하는 AI가 들어 있습니다. 찍은 이미지는 기기 안에서 처리 후 지우고, 말로 작은 앱을 만듭니다.",
+    "categories": [
+      "웨어러블·안경"
+    ],
+    "idea": "촬영 기록을 남기지 않는다는 표시를 안경 디자인에 넣기",
+    "novelty": 3,
+    "source_url": "https://finance.yahoo.com/technology/ai/articles/brilliant-labs-launches-halo-glasses-110000242.html",
+    "status": "확인됨",
+    "evidence": "Business Wire press release on Yahoo Finance, dateline 'Singapore, October 27, 2026': officially launched today via brilliant.xyz at $399; microOLED color display, bone conduction, 14h battery, Noa AI with long-term memory."
+  },
+  {
+    "id": "rokid-color-20261027",
+    "date_announced": "2026-10-27",
+    "title": "사진·영상을 컬러로 띄우는 AI 안경",
+    "company": "Rokid",
+    "product": "Rokid Color",
+    "price": "¥4,999 (약 $750)",
+    "availability": "공개만",
+    "what_is_new": "글자만 보이던 안경 화면이 사진과 영상까지 컬러로 보여줍니다. 무게는 55g으로 일반 안경에 가깝고 대모갑 색상도 있습니다.",
+    "categories": [
+      "웨어러블·안경"
+    ],
+    "idea": "안경 렌즈 위에 컬러 룩북을 띄워 보여주기",
+    "novelty": 3,
+    "source_url": "https://www.digitimes.com/news/a20261028PD239/microled-display-market-wearable.html",
+    "status": "미확인",
+    "evidence": "Digitimes (Oct 29, 2026) states Rokid unveiled Rokid Color, Glasses 2 and Rokid Ring in Hangzhou on Oct 27, 2026 (paywalled). Price 4,999/5,499 yuan and 55g from tech-insider.org citing 36Kr; no official Rokid release found."
+  },
+  {
+    "id": "rokid-ring-20261027",
+    "date_announced": "2026-10-27",
+    "title": "손가락으로 AI 안경을 조작하는 반지",
+    "company": "Rokid",
+    "product": "Rokid Ring",
+    "price": "¥1,699",
+    "availability": "공개만",
+    "what_is_new": "반지를 문지르거나 두드려 안경 화면을 넘깁니다. 말이나 안경 터치가 어려운 자리에서 조용히 쓰는 세 번째 조작법입니다.",
+    "categories": [
+      "새 입력 방식",
+      "웨어러블·안경"
+    ],
+    "idea": "안경과 짝을 이루는 컨트롤 반지를 액세서리로 만들기",
+    "novelty": 3,
+    "source_url": "https://tech-insider.org/rokid-color-full-color-ai-glasses-4999-yuan-55g-2026/",
+    "status": "미확인",
+    "evidence": "tech-insider.org (citing 36Kr) and Digitimes: Rokid Ring launched with Rokid Color at Jungle2026 event Oct 27, 2026; 1,699 yuan; swipe and single/double click as third input besides voice and touch. Official Rokid page not found."
+  },
+  {
+    "id": "shopify-shop-universal-checkout-20261029",
+    "date_announced": "2026-10-29",
+    "title": "여러 브랜드를 한 번에 사는 통합 장바구니",
+    "company": "Shopify",
+    "product": "Shop app universal checkout + shop.md (Fall '26 Edition)",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "서로 다른 브랜드 상품을 한 장바구니에 담아 한 번 눌러 결제한다. ChatGPT·Claude 같은 AI에게 맡겨도 Shop Pay로 바로 산다.",
+    "categories": [
+      "쇼핑·결제"
+    ],
+    "idea": "협업 브랜드 상품을 한 장바구니로 묶어 결제하게 만들기",
+    "novelty": 3,
+    "source_url": "https://www.shopify.com/editions/fall2026",
+    "status": "확인됨",
+    "evidence": "Official Fall '26 Editions page: 'Shoppers can add products from multiple brands to one cart, then check out in one tap.' Page has no explicit date; IT Brief article (itbrief.com.au/story/shopify-unveils-ai-shopping-tools-in-fall-26-update) dated Thursday, 29 October 2026 reports the Fall '26 Edition announcement."
+  },
+  {
+    "id": "aiuta-flash-20261028",
+    "date_announced": "2026-10-28",
+    "title": "옷 다섯 벌을 2초에 입혀 보는 피팅",
+    "company": "AIUTA",
+    "product": "Flash",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "사진 한 장으로 최대 다섯 벌 코디를 2~3초 만에 몸에 입혀 보여준다. 기다림이 없어 여러 룩을 연달아 넘겨 볼 수 있다.",
+    "categories": [
+      "패션·뷰티",
+      "쇼핑·결제"
+    ],
+    "idea": "안경과 옷을 한 번에 입혀 보는 전신 코디 미리보기 만들기",
+    "novelty": 3,
+    "source_url": "https://www.einpresswire.com/article/952662010/aiuta-launches-the-fastest-virtual-try-on-on-the-market",
+    "status": "확인됨",
+    "evidence": "EIN Presswire release dated October 28, 2026: Flash shows a single item or a full outfit of up to five pieces, generation in 2–3 seconds; brands can try it at demo.aiuta.com."
+  },
+  {
+    "id": "meta-waddleworld-20261028",
+    "date_announced": "2026-10-28",
+    "title": "하루를 말하면 일기 쓰는 AI 펫",
+    "company": "Meta",
+    "product": "Waddle World",
+    "price": "무료",
+    "availability": "출시",
+    "what_is_new": "픽셀 펫에게 오늘 있었던 일을 말하면 펫이 자기 말투로 일기와 그림을 남겨 줍니다. 챗봇이 아닌 다마고치형 게임입니다.",
+    "categories": [
+      "SNS 트렌드",
+      "콘텐츠 제작"
+    ],
+    "idea": "구매한 안경을 키우는 캐릭터로 만들어 착용 일기 쌓기",
+    "novelty": 4,
+    "source_url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+    "status": "확인됨",
+    "evidence": "TechCrunch URL/byline dated Oct 28, 2026 ('Meta has a new AI pet app called Waddle World'); Engadget also Oct 28, 2026. Official App Store listing by Meta Platforms, Inc. ('Free', 18+) exists; version 1.0 dated '8 Oct', so it may have soft-launched earlier in the Philippines before being reported."
+  },
+  {
+    "id": "nys-ai-chatbot-minors-law-20261028",
+    "date_announced": "2026-10-28",
+    "title": "아이에게 사람인 척 못 하는 챗봇법",
+    "company": "미국 뉴욕주",
+    "product": "AI 챗봇 미성년자 보호법 (S.9051B/A.10379C)",
+    "price": null,
+    "availability": "공개만",
+    "what_is_new": "18세 미만에게 챗봇이 사람인 척하거나 연인 관계를 맺는 기능을 막습니다. 신분증 외 방법을 포함한 나이 확인도 의무입니다.",
+    "categories": [
+      "참고(규제)"
+    ],
+    "idea": "AI 상담 기능에 나이 확인과 'AI입니다' 표시 넣기",
+    "novelty": 1,
+    "source_url": "https://governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
+    "status": "확인됨",
+    "evidence": "Governor's press release dated Oct 28, 2026 09:38 AM EDT: 'Governor Hochul signs nation-leading legislation to protect kids from AI chatbots...' (S.9051B/A.10379C). Effective date: release says 'in the coming months'; Engadget (Oct 28) says six months after signing; other outlets say Jan 1, 2027 — conflicting."
+  },
+  {
+    "id": "capcut-interactive-edit-20261027",
+    "date_announced": "2026-10-27",
+    "title": "화면을 짚어서 고치는 AI 영상 편집",
+    "company": "CapCut (ByteDance)",
+    "product": "Generative and Interactive Edit / AI Lab",
+    "price": null,
+    "availability": "공개만",
+    "what_is_new": "고칠 부분을 말로 설명하지 않고 미리보기 화면에서 직접 짚어 바꿉니다. AI 제작 여부를 확인하는 도구도 시범 운영합니다.",
+    "categories": [
+      "콘텐츠 제작",
+      "SNS 트렌드"
+    ],
+    "idea": "고객이 착용 영상 속 안경만 짚어 컬러 바꿔보게 만들기",
+    "novelty": 3,
+    "source_url": "https://www.capcut.com/newsroom/capcut-world-la",
+    "status": "확인됨",
+    "evidence": "Official CapCut newsroom page shows 'Oct 27, 2026'; quotes: 'Instead of telling CapCut what needs to be edited out of the video, creators can show it.' and transparency tool 'is now piloting'. Rollout timing per feature not specified (ChatGPT plugin 'in the coming months')."
+  }
+]

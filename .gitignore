@@ -1,0 +1,4 @@
+dist/
+logs/
+__pycache__/
+data/pop-scores.json

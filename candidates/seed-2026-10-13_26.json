@@ -1,0 +1,281 @@
+[
+  {
+    "id": "aimoga-mobo-20261021",
+    "date_announced": "2026-10-21",
+    "title": "가족 얼굴을 기억하는 집 동반 로봇",
+    "company": "AiMOGA (Chery)",
+    "product": "Mobo",
+    "price": null,
+    "availability": "사전예약",
+    "what_is_new": "90cm 크기 인간형 로봇이 아이에게 이야기를 들려주고 어른에게 알림을 줍니다. 얼굴로 가족을 구분해 각자의 기억을 따로 쌓습니다.",
+    "categories": [
+      "홈·로봇"
+    ],
+    "idea": "단골 얼굴을 알아보고 맞이하는 매장 안내 로봇 두기",
+    "novelty": 4,
+    "source_url": "https://autonews.gasgoo.com/articles/news/2112844054328393729",
+    "status": "확인됨",
+    "evidence": "Gasgoo dated Oct 21, 2026: AiMOGA unveiled MOBO at event in Wuhu and opened global pre-orders; 0.9m, 22 DoF, FaceID-linked memory. No price disclosed. GlobeNewswire release dated Oct 27, 2026 repeats the global debut and preorder opening."
+  },
+  {
+    "id": "amazon-bee-frontier-eclipse-20261015",
+    "date_announced": "2026-10-15",
+    "title": "버튼 누를 때만 듣고 정리하는 AI 밴드",
+    "company": "Amazon (Bee)",
+    "product": "Bee Frontier / Bee Eclipse",
+    "price": "$74.99",
+    "availability": "출시",
+    "what_is_new": "손목이나 옷에 차는 기기가 대화를 요약하고 할 일을 챙깁니다. 휴대폰 뒤에 붙는 카드형도 함께 나왔고, 녹음 원본은 남기지 않습니다.",
+    "categories": [
+      "웨어러블·안경",
+      "새 입력 방식"
+    ],
+    "idea": "휴대폰 뒷면에 붙이는 카드형 기능 액세서리 만들기",
+    "novelty": 4,
+    "source_url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+    "status": "확인됨",
+    "evidence": "TechCrunch URL dated 2026/10/15 'Amazon's Bee launches two new personal AI devices, starting at $75'; aboutamazon.com page: Frontier $74.99 available now (wrist or clip, mic button, light indicator), Eclipse from $99.99 magnetic phone-back card 'available soon'."
+  },
+  {
+    "id": "alibaba-qwen-glasses-n1-20261013",
+    "date_announced": "2026-10-13",
+    "title": "눈 홍채로 결제하는 AI 안경",
+    "company": "Alibaba",
+    "product": "Qwen Glasses N1 / N1 Pro",
+    "price": "¥2,899",
+    "availability": "출시",
+    "what_is_new": "프로 모델은 시선으로 조작하고 홍채 확인으로 결제합니다. 안경다리 배터리를 갈아 끼울 수 있고 번역·회의록도 됩니다.",
+    "categories": [
+      "웨어러블·안경",
+      "쇼핑·결제"
+    ],
+    "idea": "안경다리에 갈아 끼우는 배터리 모듈 넣기",
+    "novelty": 4,
+    "source_url": "https://technode.com/2026/10/14/alibaba-launches-qwen-n1-ai-glasses-with-swappable-batteries-starting-at-rmb-2899/",
+    "status": "확인됨",
+    "evidence": "TechNode (Oct 14, 2026): Alibaba launched Qwen N1 and N1 Pro in China on October 13, 2026, from RMB 2,899 / 3,399; swappable temple batteries; Pro adds eye-tracking and iris payment verification. Bloomberg headline dated 2026-10-13 '$450 AI glasses'. Note: preview at Apsara in Sept, preorders from Sept 22."
+  },
+  {
+    "id": "apple-apple-tv-4k-20261013",
+    "date_announced": "2026-10-13",
+    "title": "리모컨 없이 말로 묻는 AI TV 박스",
+    "company": "Apple",
+    "product": "Apple TV 4K (4th generation)",
+    "price": "$299",
+    "availability": "사전예약",
+    "what_is_new": "본체 마이크 3개로 리모컨 없이 말로 TV를 다룹니다. 보는 중에 물으면 화면 구석에 작게 답이 뜹니다.",
+    "categories": [
+      "새 입력 방식",
+      "홈·로봇"
+    ],
+    "idea": "매장 영상 화면에 손님이 말로 묻고 작은 자막으로 답하기",
+    "novelty": 3,
+    "source_url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+    "status": "확인됨",
+    "evidence": "Apple Newsroom 'Apple unveils the new Apple TV 4K, supercharged by Siri AI' (Oct 13, 2026): three far-field mics for hands-free control; $299; 'can be pre-ordered starting today, with availability beginning November 13'."
+  },
+  {
+    "id": "vetir-style-passport-20261026",
+    "date_announced": "2026-10-26",
+    "title": "내 치수와 옷장을 들고 다니는 쇼핑 여권",
+    "company": "Vêtir",
+    "product": "The Style Passport",
+    "price": null,
+    "availability": "공개만",
+    "what_is_new": "내 치수·취향·아바타·디지털 옷장을 다른 온라인몰로 그대로 가져간다. 몰마다 사이즈를 다시 입력할 필요가 없다.",
+    "categories": [
+      "패션·뷰티",
+      "쇼핑·결제"
+    ],
+    "idea": "고객 얼굴 치수를 저장해 어느 채널이든 바로 쓰게 만들기",
+    "novelty": 4,
+    "source_url": "https://finance.yahoo.com/technology/ai/articles/v-tir-secures-patent-ai-130300340.html",
+    "status": "확인됨",
+    "evidence": "Business Wire release (via Yahoo Finance) datelined New York, October 26, 2026: Vêtir unveils The Style Passport, a consumer extension carrying sizing, style preferences, avatar and digital wardrobe across online stores; no availability date given."
+  },
+  {
+    "id": "apparelgroup-aivi-20261023",
+    "date_announced": "2026-10-23",
+    "title": "말로 코디 묻고 입어보는 쇼핑 앱",
+    "company": "Apparel Group",
+    "product": "AIVI",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "글이나 음성으로 상황별 코디를 묻고, 내 사진에 바로 입혀 본다. 고른 상품은 UAE에서 최대 60분 안에 배송된다.",
+    "categories": [
+      "패션·뷰티",
+      "쇼핑·결제"
+    ],
+    "idea": "음성으로 스타일 묻고 당일 배송까지 잇는 앱 흐름 만들기",
+    "novelty": 3,
+    "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387060/0/en/apparel-group-redefines-the-future-of-shopping-with-aivi-its-game-changing-ai-powered-shopping-app-launched-through-a-spectacular-star-studded-event.html",
+    "status": "확인됨",
+    "evidence": "GlobeNewswire release dated 2026-10-23 (URL path; page 403 to fetcher, mirrored on Manila Times 2026/10/23). Entrepreneur Middle East (Oct 23, 2026) and Arab News (Oct 25, 2026) confirm launch on iOS/Android in 6 GCC markets with Ask AIVI text/voice assistant, photo virtual try-on, 60-min UAE delivery. Launch event reported as Oct 16, 2026."
+  },
+  {
+    "id": "arbelle-look-finder-20261022",
+    "date_announced": "2026-10-22",
+    "title": "내 얼굴에 맞는 메이크업 룩 추천",
+    "company": "Arbelle (Visage Technologies)",
+    "product": "Look Finder",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "얼굴 생김새와 피부톤을 보고 브랜드 제품으로 완성한 메이크업 룩을 추천한다. 내 얼굴에 입혀 본 뒤 바로 장바구니에 담는다.",
+    "categories": [
+      "패션·뷰티",
+      "쇼핑·결제"
+    ],
+    "idea": "얼굴형 분석으로 어울리는 안경 룩 세트 추천하기",
+    "novelty": 3,
+    "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-22-arbelle-launches-ai-look-finder-as-beauty-brands-turn-to-personalization-to-drive-e-commerce-growth",
+    "status": "확인됨",
+    "evidence": "Business Wire release (via FinancialContent) published October 22, 2026: 'Arbelle Launches AI Look Finder' recommending personalized, shoppable makeup looks based on facial features and complexion, with virtual try-on and add-to-basket. Offered to brands as widget/API/SDK; no named customer brands."
+  },
+  {
+    "id": "walmart-agent-profiles-20261021",
+    "date_announced": "2026-10-21",
+    "title": "AI 대리 쇼핑에 한도를 거는 계정",
+    "company": "Walmart",
+    "product": "Agent Profiles / Agent Gateway",
+    "price": null,
+    "availability": "공개만",
+    "what_is_new": "내가 허락한 AI 에이전트마다 별도 프로필을 주고, 건별 승인이나 금액 한도를 정한다. 신용카드 가족카드처럼 AI에게 쇼핑을 맡기는 구조다.",
+    "categories": [
+      "쇼핑·결제"
+    ],
+    "idea": "AI가 대신 사도 되는 금액 한도 설정 화면 만들기",
+    "novelty": 4,
+    "source_url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "status": "확인됨",
+    "evidence": "TechCrunch 2026-10-21: Walmart announced on Wednesday, October 21, 2026 Agent Profiles letting customers require approval per transaction or pre-approve up to a spending limit; Agent Profiles 'rolling out next month', Agent Gateway (MCP) in invite-only beta."
+  },
+  {
+    "id": "target-ask-target-20261021",
+    "date_announced": "2026-10-21",
+    "title": "선물 고민을 대화로 좁혀주는 쇼핑 비서",
+    "company": "Target",
+    "product": "Ask Target",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "검색어 대신 받는 사람과 상황을 말하면 선물 후보를 좁혀주고 위시리스트를 만든다. 대형 마트 앱 안에 베타로 들어갔다.",
+    "categories": [
+      "쇼핑·결제"
+    ],
+    "idea": "선물 받을 사람 얼굴형을 묻고 안경 골라주는 대화창 넣기",
+    "novelty": 2,
+    "source_url": "https://corporate.target.com/press/release/2026/10/target-makes-it-easier-for-guests-to-discover-stylish-holiday-gifts-they-can-t-wait-to-give",
+    "status": "확인됨",
+    "evidence": "Target corporate press release, Minneapolis, October 21, 2026 (PRNewswire): Ask Target, 'an AI-powered shopping assistant', available in beta on Target.com and the Target app to help guests find gift ideas and narrow choices."
+  },
+  {
+    "id": "choicetech-torriden-skin-kiosk-20261021",
+    "date_announced": "2026-10-21",
+    "title": "피부 찍고 제품 추천받는 매장 키오스크",
+    "company": "ChoiceTech Korea / Torriden",
+    "product": "ChoiceDx AI skin analysis kiosk",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "플래그십 매장에서 스스로 피부를 촬영하면 색소·유분·모공·주름을 분석해 제품을 추천한다. 결과는 QR로 휴대폰에 가져간다.",
+    "categories": [
+      "매장·리테일",
+      "패션·뷰티"
+    ],
+    "idea": "매장 얼굴 측정 결과를 QR로 고객 폰에 넘겨주기",
+    "novelty": 3,
+    "source_url": "https://www.kioskmarketplace.com/news/choicetech-korea-deploys-ai-skin-analysis-kiosk-at-seoul-flagship-store/",
+    "status": "확인됨",
+    "evidence": "Kiosk Marketplace article published October 21, 2026: ChoiceTech Korea deployed ChoiceDx self-service AI skin analysis kiosk at Torriden Connect Seongsu flagship in Seoul; shoppers scan QR to view assessment on mobile. Trade-press report, not a company press release."
+  },
+  {
+    "id": "footlocker-fits-20261016",
+    "date_announced": "2026-10-16",
+    "title": "내 신발 찍으면 코디를 짜주는 옷장 앱",
+    "company": "Foot Locker (with Stylitics)",
+    "product": "Fits",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "이미 가진 아이템을 찍어 올리면 그걸 중심으로 전체 코디를 짜서 가상 모델에 입혀 보여준다. 모델 화면에서 코디 전체를 장바구니에 담는다.",
+    "categories": [
+      "패션·뷰티",
+      "쇼핑·결제"
+    ],
+    "idea": "고객이 가진 옷 사진으로 어울리는 안경 추천하기",
+    "novelty": 3,
+    "source_url": "https://retailtechinnovationhub.com/home/2026/10/15/foot-locker-teams-with-stylitics-as-retailer-taps-ai-technology-to-launch-app-based-closet-builder",
+    "status": "확인됨",
+    "evidence": "Retail Technology Innovation Hub article, byline 16 Oct 2026 (URL path 2026/10/15): Foot Locker launches Fits, an AI-powered closet builder in its mobile app with Stylitics; Foot Locker's Michael Cera invites users to 'give it a try!'. No company press release found; exact in-app launch date not stated."
+  },
+  {
+    "id": "higgsfield-playable-20261026",
+    "date_announced": "2026-10-26",
+    "title": "말 한마디로 만드는 모바일 게임",
+    "company": "Higgsfield",
+    "product": "Higgsfield Playable",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "글로 설명하거나 게임 영상을 올리면 몇 분 만에 브라우저에서 바로 하는 게임이 생깁니다. 난이도나 캐릭터는 말로 고칩니다.",
+    "categories": [
+      "콘텐츠 제작"
+    ],
+    "idea": "신제품 캠페인을 직접 해보는 짧은 미니게임으로 만들기",
+    "novelty": 4,
+    "source_url": "https://higgsfield.ai/creator-hub/changelog",
+    "status": "확인됨",
+    "evidence": "Official Higgsfield changelog entry 'Oct 26: Higgsfield Playable (Release, Platform)' — 'Build a mobile game from a description or a gameplay video and play it in the browser within minutes.' Playable available to everyone on web/mobile; Playable Ads is Enterprise-only. Price not stated (credit-based)."
+  },
+  {
+    "id": "canva-craft-20261022",
+    "date_announced": "2026-10-22",
+    "title": "레이어째 고치는 AI 이미지",
+    "company": "Canva",
+    "product": "Canva Craft",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "구도를 먼저 잡고 그려 글자가 또렷하고, 결과물을 글자·사물·배경 레이어로 나눠 바로 편집할 수 있습니다.",
+    "categories": [
+      "콘텐츠 제작"
+    ],
+    "idea": "AI로 만든 시즌 포스터를 매장별로 문구만 바꿔 쓰기",
+    "novelty": 3,
+    "source_url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "status": "미확인",
+    "evidence": "TechCrunch URL/article dated Oct 22, 2026: Canva Craft available to all users in the Dream Lab tab; output convertible to layered designs via Magic Layers. Official Canva newsroom page (canva.com/newsroom/news/canva-craft/) returned 403, so original not opened."
+  },
+  {
+    "id": "higgsfield-3dangles-20261019",
+    "date_announced": "2026-10-19",
+    "title": "사진 한 장을 돌려 다시 찍는 도구",
+    "company": "Higgsfield",
+    "product": "3D Angles (ChatGPT 플러그인)",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "사진이나 영상을 3D 장면으로 바꿔 다른 각도에서 다시 찍습니다. 렌즈와 조리개도 골라 사진이나 짧은 영상으로 뽑습니다.",
+    "categories": [
+      "콘텐츠 제작",
+      "패션·뷰티"
+    ],
+    "idea": "제품 사진 한 장으로 측면·뒷면 컷까지 만들기",
+    "novelty": 4,
+    "source_url": "https://higgsfield.ai/creator-hub/changelog",
+    "status": "확인됨",
+    "evidence": "Official Higgsfield changelog entry 'Oct 19: 3D Angles (Release, MCP & Integrations)' — 'The Higgsfield plugin in ChatGPT turns a photo, video, or text description into a 3D scene that you can reshoot from new angles'; lenses 24–300 mm, f1.4–f16, output photo or video up to 30s."
+  },
+  {
+    "id": "meta-facebook-youralgorithm-20261013",
+    "date_announced": "2026-10-13",
+    "title": "내 말로 피드 취향을 바꾸는 기능",
+    "company": "Meta",
+    "product": "Facebook 'Your algorithm'",
+    "price": "무료",
+    "availability": "출시",
+    "what_is_new": "보고 싶은 주제를 내 말로 적으면 AI가 알아듣고 피드와 릴스 추천을 바로 바꿉니다. '관심 없음' 뒤에 이유도 말할 수 있습니다.",
+    "categories": [
+      "SNS 트렌드"
+    ],
+    "idea": "앱 추천에 '원하는 스타일을 말로 적기' 칸 넣기",
+    "novelty": 3,
+    "source_url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
+    "status": "확인됨",
+    "evidence": "Meta newsroom post dated October 13, 2026: 'directly add and manage the topics you want to see in Feed and Reels', AI interprets topics described in your own words; 'rolling out' with no region list. Same feature launched earlier on Instagram."
+  }
+]

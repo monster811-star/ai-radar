@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AI 신제품 레이더</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar" id="topbar">
+  <div class="wrap topbar-in">
+    <a class="brand" href="#" id="brandLink">AI 신제품 레이더</a>
+    <div class="topbar-right">
+      <span class="updated tnum" id="updated">마지막 업데이트 —</span>
+      <button class="icon-btn" id="themeBtn" type="button" aria-label="다크 모드 전환"></button>
+    </div>
+  </div>
+</header>
+
+<main id="app">
+  <section id="view-archive" class="wrap view">
+    <div class="headline">
+      <p class="hl-date tnum" id="hlDate"></p>
+      <h1 class="hl-summary" id="hlSummary"><span class="sk sk-line w80"></span></h1>
+    </div>
+    <div class="ar-tabs" role="tablist">
+      <button type="button" class="ar-tab" role="tab" data-tab="all" aria-selected="true">전체</button>
+      <button type="button" class="ar-tab" role="tab" data-tab="saved" aria-selected="false">저장 <span class="tnum" id="savedCount">0</span></button>
+    </div>
+    <label class="search">
+      <svg class="ic" aria-hidden="true"><use href="#i-search"/></svg>
+      <input id="q" type="search" placeholder="제목·회사·제품·아이디어 검색" autocomplete="off" aria-label="검색">
+      <kbd>/</kbd>
+    </label>
+    <div class="chip-row scroll-x" id="arChips" aria-label="카테고리 필터"></div>
+    <div class="ar-controls">
+      <div class="seg" id="period" role="group" aria-label="기간">
+        <button type="button" data-v="1">오늘</button>
+        <button type="button" data-v="7">7일</button>
+        <button type="button" data-v="30">30일</button>
+        <button type="button" data-v="0" aria-pressed="true">전체</button>
+      </div>
+      <div class="seg" id="sort" role="group" aria-label="정렬">
+        <button type="button" data-v="new" aria-pressed="true">최신순</button>
+        <button type="button" data-v="pop">인기순</button>
+      </div>
+      <div class="seg" id="viewMode" role="group" aria-label="보기">
+        <button type="button" data-v="card" aria-pressed="true" aria-label="카드 보기"><svg class="ic"><use href="#i-grid"/></svg></button>
+        <button type="button" data-v="list" aria-label="리스트 보기"><svg class="ic"><use href="#i-list"/></svg></button>
+      </div>
+    </div>
+    <p class="result-line tnum" id="resultLine" aria-live="polite"></p>
+    <div id="archiveList"></div>
+  </section>
+</main>
+
+<!-- 상세 패널 -->
+<div class="scrim" id="scrim" hidden></div>
+<aside class="panel" id="panel" role="dialog" aria-modal="true" aria-labelledby="pTitle" hidden>
+  <div class="grab" id="grab"><span></span></div>
+  <div class="panel-top">
+    <div class="panel-nav">
+      <button type="button" class="icon-btn" id="pPrev" aria-label="이전 항목"><svg class="ic"><use href="#i-left"/></svg></button>
+      <button type="button" class="icon-btn" id="pNext" aria-label="다음 항목"><svg class="ic"><use href="#i-right"/></svg></button>
+    </div>
+    <button type="button" class="icon-btn" id="pClose" aria-label="닫기"><svg class="ic"><use href="#i-x"/></svg></button>
+  </div>
+  <div class="panel-body" id="panelBody"></div>
+</aside>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></symbol>
+    <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></symbol>
+    <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></symbol>
+    <symbol id="i-star" viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.3 5.8.8-4.2 4.1 1 5.8L12 16.8l-5.2 2.7 1-5.8-4.2-4.1 5.8-.8z"/></symbol>
+    <symbol id="i-ext" viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></symbol>
+    <symbol id="i-fire" viewBox="0 0 24 24"><path d="M12 3c.4 2.6-1.2 3.8-2.1 5.4-.8 1.4-.3 3.1 1.3 3.5 1.2.3 2.3-.5 2.4-1.7.9 1 1.9 2.4 1.9 4.3a5.5 5.5 0 0 1-11 0c0-2.5 1.4-4.2 2.6-5.9C8.9 6.5 10.8 5.3 12 3z"/></symbol>
+    <symbol id="i-x" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></symbol>
+    <symbol id="i-left" viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></symbol>
+    <symbol id="i-right" viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></symbol>
+    <symbol id="i-grid" viewBox="0 0 24 24"><rect x="4" y="4" width="6.5" height="6.5" rx="1.5"/><rect x="13.5" y="4" width="6.5" height="6.5" rx="1.5"/><rect x="4" y="13.5" width="6.5" height="6.5" rx="1.5"/><rect x="13.5" y="13.5" width="6.5" height="6.5" rx="1.5"/></symbol>
+    <symbol id="i-list" viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16"/></symbol>
+    <symbol id="i-cat1" viewBox="0 0 24 24"><circle cx="6.5" cy="14" r="3.5"/><circle cx="17.5" cy="14" r="3.5"/><path d="M10 14h4M3 14l1-6h2M21 14l-1-6h-2"/></symbol>
+    <symbol id="i-cat2" viewBox="0 0 24 24"><path d="M4 11l8-6 8 6v8a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1z"/><circle cx="10" cy="14" r="1"/><circle cx="14" cy="14" r="1"/></symbol>
+    <symbol id="i-cat3" viewBox="0 0 24 24"><path d="M9 11V5.5a1.5 1.5 0 0 1 3 0V11M12 10V4.5a1.5 1.5 0 0 1 3 0V11M15 10.5a1.5 1.5 0 0 1 3 0V15a6 6 0 0 1-6 6h-1a6 6 0 0 1-5-2.7L4 14.5a1.5 1.5 0 0 1 2.4-1.8L9 15"/></symbol>
+    <symbol id="i-cat4" viewBox="0 0 24 24"><path d="M5 8h14l-1 12H6z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></symbol>
+    <symbol id="i-cat5" viewBox="0 0 24 24"><path d="M3 9l2-5h14l2 5M4 9v11h16V9M3 9h18M9 20v-6h6v6"/></symbol>
+    <symbol id="i-cat6" viewBox="0 0 24 24"><path d="M12 6a2 2 0 1 1 2 2c-1 0-2 .7-2 1.7v.3M12 10l-9 7h18z"/></symbol>
+    <symbol id="i-cat7" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M10 9.5v5l4.5-2.5z"/></symbol>
+    <symbol id="i-cat8" viewBox="0 0 24 24"><path d="M20 12a8 8 0 0 1-11.6 7.1L4 20l1-4.2A8 8 0 1 1 20 12z"/><path d="M9 11h6M9 14h4"/></symbol>
+    <symbol id="i-cat9" viewBox="0 0 24 24"><path d="M12 4v16M6 20h12M5 8h14M5 8l-2.5 6a2.5 2.5 0 0 0 5 0zM19 8l-2.5 6a2.5 2.5 0 0 0 5 0z"/></symbol>
+  </defs>
+</svg>
+<script src="app.js"></script>
+</body>
+</html>

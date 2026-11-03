@@ -1,0 +1,659 @@
+[
+  {
+    "id": "ghost-core-20261031",
+    "date_added": "2026-11-01",
+    "date_announced": "2026-10-31",
+    "title": "화면 없이 AI만 돌리는 본체",
+    "company": "Ghost",
+    "product": "Core",
+    "price": "$3,499",
+    "availability": "출시",
+    "what_is_new": "화면도 키보드도 없는 작은 본체가 집에서 AI 비서를 직접 돌린다. 데이터를 밖으로 안 보내고 기기 안에서 처리한다.",
+    "categories": [
+      "홈·로봇"
+    ],
+    "idea": "매장 안내 AI를 자체 본체로 돌려 개인정보 지키기",
+    "novelty": 4,
+    "popularity": 54,
+    "source_url": "https://ghost.ai/core",
+    "status": "확인됨",
+    "image": "images/ghost-core-20261031.jpg"
+  },
+  {
+    "id": "isho-ring-20261029",
+    "date_added": "2026-10-31",
+    "date_announced": "2026-10-29",
+    "title": "잠을 분석하는 AI 반지",
+    "company": "ISHO",
+    "product": "ISHO Ring",
+    "price": "¥1,799",
+    "availability": "사전예약",
+    "what_is_new": "손가락에 끼는 반지가 밤새 수면과 몸 상태를 재고, AI가 하루 컨디션 관리법을 알려준다.",
+    "categories": [
+      "웨어러블·안경"
+    ],
+    "idea": "웨어러블로 손님 컨디션 재서 추천에 넣기",
+    "novelty": 3,
+    "popularity": 50,
+    "source_url": "https://technode.com/2026/10/30/former-xiaomi-executive-launches-smart-ring-and-ai-powered-sleep-system/",
+    "status": "확인됨",
+    "image": "images/isho-ring-20261029.jpg"
+  },
+  {
+    "id": "subvocal-glasses-20261030",
+    "date_added": "2026-10-31",
+    "date_announced": "2026-10-30",
+    "title": "소리 없이 입모양으로 쓰는 안경",
+    "company": "Subvocal",
+    "product": "Subvocal Glasses",
+    "price": "$499",
+    "availability": "사전예약",
+    "what_is_new": "소리 내지 않고 입만 움직여도 안경이 읽어 글자로 바꾼다. 말하는 속도로 메시지를 쓰고 AI에게 명령한다.",
+    "categories": [
+      "새 입력 방식",
+      "웨어러블·안경"
+    ],
+    "idea": "입모양만으로 매장 기기 조작 넣기",
+    "novelty": 4,
+    "popularity": 46,
+    "source_url": "https://www.digitaltrends.com/computing/subvocals-glasses-promise-to-let-you-talk-to-your-computer-in-complete-silence/",
+    "status": "확인됨",
+    "image": "images/subvocal-glasses-20261030.jpg"
+  },
+  {
+    "id": "meta-style-sketch-20261029",
+    "date_added": "2026-10-30",
+    "date_announced": "2026-10-29",
+    "title": "인스타 사진으로 옷장 만드는 코디 앱",
+    "company": "Meta",
+    "product": "Style Sketch",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "인스타그램 사진으로 디지털 옷장을 만들고 가진 옷을 중심으로 새 코디를 제안한다. 내 체형 모델에 입혀 볼 수 있다.",
+    "categories": [
+      "패션·뷰티",
+      "SNS 트렌드"
+    ],
+    "idea": "고객 인스타 사진으로 안경 코디 추천하기",
+    "novelty": 3,
+    "source_url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+    "status": "확인됨",
+    "image": "images/meta-style-sketch-20261029.jpg",
+    "popularity": 62
+  },
+  {
+    "id": "maybelline-chatgpt-tryon-20261029",
+    "date_added": "2026-10-30",
+    "date_announced": "2026-10-29",
+    "title": "챗GPT에서 해보는 메이크업 피팅",
+    "company": "Maybelline",
+    "product": "Makeup Virtual Try-On (ChatGPT)",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "챗GPT 앱에서 메이크업을 묻고 카메라나 사진으로 색조를 바로 입혀 본다. 추천부터 살 곳 찾기까지 한 대화로 이어진다.",
+    "categories": [
+      "패션·뷰티",
+      "쇼핑·결제"
+    ],
+    "idea": "대화창에서 안경을 바로 써보게 만들기",
+    "novelty": 4,
+    "source_url": "https://www.prnewswire.com/news-releases/maybelline-new-york-becomes-the-first-beauty-brand-to-bring-real-time-makeup-virtual-try-on-to-chatgpt-302922829.html",
+    "status": "확인됨",
+    "image": "images/maybelline-chatgpt-tryon-20261029.jpg",
+    "popularity": 54
+  },
+  {
+    "id": "amazon-alexa-photo-frame-20261028",
+    "date_added": "2026-10-29",
+    "date_announced": "2026-10-28",
+    "title": "AI가 사진을 골라 거는 액자",
+    "company": "Amazon",
+    "product": "Alexa Photo Frame",
+    "price": "$199.99",
+    "availability": "출시",
+    "what_is_new": "AI가 잘 나온 인물 사진과 계절에 맞는 사진을 알아서 골라 보여줍니다. 영수증·캡처 화면은 거르고 사진에 음성 메모도 붙입니다.",
+    "categories": [
+      "홈·로봇"
+    ],
+    "idea": "매장 디스플레이에 계절·시간대별 화보를 AI가 자동 큐레이션하기",
+    "novelty": 3,
+    "source_url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+    "status": "확인됨",
+    "image": "images/amazon-alexa-photo-frame-20261028.jpg",
+    "popularity": 76
+  },
+  {
+    "id": "xreal-aura-20261028",
+    "date_added": "2026-10-29",
+    "date_announced": "2026-10-28",
+    "title": "허리 퍼크로 돌아가는 AI 화면 안경",
+    "company": "XREAL",
+    "product": "XREAL Aura",
+    "price": "$1,279",
+    "availability": "사전예약",
+    "what_is_new": "안경 앞에 큰 화면이 뜨고, 계산은 허리에 차는 작은 본체가 맡습니다. 말·손짓·컨트롤러로 조작하고 AI 비서 전용 버튼이 있습니다.",
+    "categories": [
+      "웨어러블·안경",
+      "새 입력 방식"
+    ],
+    "idea": "무거운 부품은 벨트·가방에 넣고 안경은 가볍게 만들기",
+    "novelty": 3,
+    "source_url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr",
+    "status": "확인됨",
+    "image": "images/xreal-aura-20261028.jpg",
+    "popularity": 73
+  },
+  {
+    "id": "amazon-echo-time-20261028",
+    "date_added": "2026-10-29",
+    "date_announced": "2026-10-28",
+    "title": "잠 깊이 보고 깨워주는 AI 탁상시계",
+    "company": "Amazon",
+    "product": "Echo Time",
+    "price": "$199.99",
+    "availability": "공개만",
+    "what_is_new": "침대 옆 시계가 수면 상태를 감지해 얕게 잘 때 깨워줍니다. 해 뜨는 듯한 빛으로 휴대폰 없이 아침을 시작하게 합니다.",
+    "categories": [
+      "홈·로봇"
+    ],
+    "idea": "휴대폰 대신 쓰는 침실용 소품을 브랜드 디자인으로 만들기",
+    "novelty": 3,
+    "source_url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+    "status": "확인됨",
+    "image": "images/amazon-echo-time-20261028.jpg",
+    "popularity": 70
+  },
+  {
+    "id": "rokid-color-20261027",
+    "date_added": "2026-10-29",
+    "date_announced": "2026-10-27",
+    "title": "사진·영상을 컬러로 띄우는 AI 안경",
+    "company": "Rokid",
+    "product": "Rokid Color",
+    "price": "¥4,999 (약 $750)",
+    "availability": "공개만",
+    "what_is_new": "글자만 보이던 안경 화면이 사진과 영상까지 컬러로 보여줍니다. 무게는 55g으로 일반 안경에 가깝고 대모갑 색상도 있습니다.",
+    "categories": [
+      "웨어러블·안경"
+    ],
+    "idea": "안경 렌즈 위에 컬러 룩북을 띄워 보여주기",
+    "novelty": 3,
+    "source_url": "https://www.digitimes.com/news/a20261028PD239/microled-display-market-wearable.html",
+    "status": "미확인",
+    "image": "images/rokid-color-20261027.jpg",
+    "popularity": 63
+  },
+  {
+    "id": "meta-waddleworld-20261028",
+    "date_added": "2026-10-29",
+    "date_announced": "2026-10-28",
+    "title": "하루를 말하면 일기 쓰는 AI 펫",
+    "company": "Meta",
+    "product": "Waddle World",
+    "price": "무료",
+    "availability": "출시",
+    "what_is_new": "픽셀 펫에게 오늘 있었던 일을 말하면 펫이 자기 말투로 일기와 그림을 남겨 줍니다. 챗봇이 아닌 다마고치형 게임입니다.",
+    "categories": [
+      "SNS 트렌드",
+      "콘텐츠 제작"
+    ],
+    "idea": "구매한 안경을 키우는 캐릭터로 만들어 착용 일기 쌓기",
+    "novelty": 4,
+    "source_url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+    "status": "확인됨",
+    "image": false,
+    "popularity": 61
+  },
+  {
+    "id": "brilliantlabs-halo-20261027",
+    "date_added": "2026-10-29",
+    "date_announced": "2026-10-27",
+    "title": "말로 앱을 만드는 AI 안경",
+    "company": "Brilliant Labs",
+    "product": "Halo",
+    "price": "$399",
+    "availability": "출시",
+    "what_is_new": "40g 남짓 안경에 컬러 화면과 대화를 기억하는 AI가 들어 있습니다. 찍은 이미지는 기기 안에서 처리 후 지우고, 말로 작은 앱을 만듭니다.",
+    "categories": [
+      "웨어러블·안경"
+    ],
+    "idea": "촬영 기록을 남기지 않는다는 표시를 안경 디자인에 넣기",
+    "novelty": 3,
+    "source_url": "https://finance.yahoo.com/technology/ai/articles/brilliant-labs-launches-halo-glasses-110000242.html",
+    "status": "확인됨",
+    "image": "images/brilliantlabs-halo-20261027.jpg",
+    "popularity": 59
+  },
+  {
+    "id": "nys-ai-chatbot-minors-law-20261028",
+    "date_added": "2026-10-29",
+    "date_announced": "2026-10-28",
+    "title": "아이에게 사람인 척 못 하는 챗봇법",
+    "company": "미국 뉴욕주",
+    "product": "AI 챗봇 미성년자 보호법 (S.9051B/A.10379C)",
+    "price": null,
+    "availability": "공개만",
+    "what_is_new": "18세 미만에게 챗봇이 사람인 척하거나 연인 관계를 맺는 기능을 막습니다. 신분증 외 방법을 포함한 나이 확인도 의무입니다.",
+    "categories": [
+      "참고(규제)"
+    ],
+    "idea": "AI 상담 기능에 나이 확인과 'AI입니다' 표시 넣기",
+    "novelty": 1,
+    "source_url": "https://governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
+    "status": "확인됨",
+    "image": null,
+    "popularity": 57
+  },
+  {
+    "id": "shopify-shop-universal-checkout-20261029",
+    "date_added": "2026-10-29",
+    "date_announced": "2026-10-29",
+    "title": "여러 브랜드를 한 번에 사는 통합 장바구니",
+    "company": "Shopify",
+    "product": "Shop app universal checkout + shop.md (Fall '26 Edition)",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "서로 다른 브랜드 상품을 한 장바구니에 담아 한 번 눌러 결제한다. ChatGPT·Claude 같은 AI에게 맡겨도 Shop Pay로 바로 산다.",
+    "categories": [
+      "쇼핑·결제"
+    ],
+    "idea": "협업 브랜드 상품을 한 장바구니로 묶어 결제하게 만들기",
+    "novelty": 3,
+    "source_url": "https://www.shopify.com/editions/fall2026",
+    "status": "확인됨",
+    "image": false,
+    "popularity": 56
+  },
+  {
+    "id": "rokid-ring-20261027",
+    "date_added": "2026-10-29",
+    "date_announced": "2026-10-27",
+    "title": "손가락으로 AI 안경을 조작하는 반지",
+    "company": "Rokid",
+    "product": "Rokid Ring",
+    "price": "¥1,699",
+    "availability": "공개만",
+    "what_is_new": "반지를 문지르거나 두드려 안경 화면을 넘깁니다. 말이나 안경 터치가 어려운 자리에서 조용히 쓰는 세 번째 조작법입니다.",
+    "categories": [
+      "새 입력 방식",
+      "웨어러블·안경"
+    ],
+    "idea": "안경과 짝을 이루는 컨트롤 반지를 액세서리로 만들기",
+    "novelty": 3,
+    "source_url": "https://tech-insider.org/rokid-color-full-color-ai-glasses-4999-yuan-55g-2026/",
+    "status": "미확인",
+    "image": "images/rokid-ring-20261027.jpg",
+    "popularity": 42
+  },
+  {
+    "id": "capcut-interactive-edit-20261027",
+    "date_added": "2026-10-29",
+    "date_announced": "2026-10-27",
+    "title": "화면을 짚어서 고치는 AI 영상 편집",
+    "company": "CapCut (ByteDance)",
+    "product": "Generative and Interactive Edit / AI Lab",
+    "price": null,
+    "availability": "공개만",
+    "what_is_new": "고칠 부분을 말로 설명하지 않고 미리보기 화면에서 직접 짚어 바꿉니다. AI 제작 여부를 확인하는 도구도 시범 운영합니다.",
+    "categories": [
+      "콘텐츠 제작",
+      "SNS 트렌드"
+    ],
+    "idea": "고객이 착용 영상 속 안경만 짚어 컬러 바꿔보게 만들기",
+    "novelty": 3,
+    "source_url": "https://www.capcut.com/newsroom/capcut-world-la",
+    "status": "확인됨",
+    "image": false,
+    "popularity": 40
+  },
+  {
+    "id": "aiuta-flash-20261028",
+    "date_added": "2026-10-29",
+    "date_announced": "2026-10-28",
+    "title": "옷 다섯 벌을 2초에 입혀 보는 피팅",
+    "company": "AIUTA",
+    "product": "Flash",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "사진 한 장으로 최대 다섯 벌 코디를 2~3초 만에 몸에 입혀 보여준다. 기다림이 없어 여러 룩을 연달아 넘겨 볼 수 있다.",
+    "categories": [
+      "패션·뷰티",
+      "쇼핑·결제"
+    ],
+    "idea": "안경과 옷을 한 번에 입혀 보는 전신 코디 미리보기 만들기",
+    "novelty": 3,
+    "source_url": "https://www.einpresswire.com/article/952662010/aiuta-launches-the-fastest-virtual-try-on-on-the-market",
+    "status": "확인됨",
+    "image": null,
+    "popularity": 31
+  },
+  {
+    "id": "realbotix-echo-20261026",
+    "date_added": "2026-10-26",
+    "date_announced": "2026-10-26",
+    "title": "사람 피부 같은 얼굴의 대화 로봇",
+    "company": "Realbotix",
+    "product": "Echo Tabletop · Full Body",
+    "price": "$11,950",
+    "availability": "사전예약",
+    "what_is_new": "얼굴과 목을 실리콘 인조 피부로 덮어 표정까지 사람처럼 보입니다. 탁상형과 전신형이 있고 100개 넘는 언어로 대화합니다.",
+    "categories": [
+      "홈·로봇"
+    ],
+    "idea": "매장 마네킹에 표정과 대화를 넣어 안내하게 만들기",
+    "novelty": 4,
+    "source_url": "https://www.stocktitan.net/news/XBOTF/realbotix-launches-echo-humanoid-robot-q0el1rwj5scs.html",
+    "status": "확인됨",
+    "image": "images/realbotix-echo-20261026.jpg",
+    "popularity": 45
+  },
+  {
+    "id": "higgsfield-playable-20261026",
+    "date_added": "2026-10-26",
+    "date_announced": "2026-10-26",
+    "title": "말 한마디로 만드는 모바일 게임",
+    "company": "Higgsfield",
+    "product": "Higgsfield Playable",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "글로 설명하거나 게임 영상을 올리면 몇 분 만에 브라우저에서 바로 하는 게임이 생깁니다. 난이도나 캐릭터는 말로 고칩니다.",
+    "categories": [
+      "콘텐츠 제작"
+    ],
+    "idea": "신제품 캠페인을 직접 해보는 짧은 미니게임으로 만들기",
+    "novelty": 4,
+    "source_url": "https://higgsfield.ai/creator-hub/changelog",
+    "status": "확인됨",
+    "image": false,
+    "popularity": 37
+  },
+  {
+    "id": "vetir-style-passport-20261026",
+    "date_added": "2026-10-26",
+    "date_announced": "2026-10-26",
+    "title": "내 치수와 옷장을 들고 다니는 쇼핑 여권",
+    "company": "Vêtir",
+    "product": "The Style Passport",
+    "price": null,
+    "availability": "공개만",
+    "what_is_new": "내 치수·취향·아바타·디지털 옷장을 다른 온라인몰로 그대로 가져간다. 몰마다 사이즈를 다시 입력할 필요가 없다.",
+    "categories": [
+      "패션·뷰티",
+      "쇼핑·결제"
+    ],
+    "idea": "고객 얼굴 치수를 저장해 어느 채널이든 바로 쓰게 만들기",
+    "novelty": 4,
+    "source_url": "https://finance.yahoo.com/technology/ai/articles/v-tir-secures-patent-ai-130300340.html",
+    "status": "확인됨",
+    "image": false,
+    "popularity": 34
+  },
+  {
+    "id": "apparelgroup-aivi-20261023",
+    "date_added": "2026-10-23",
+    "date_announced": "2026-10-23",
+    "title": "말로 코디 묻고 입어보는 쇼핑 앱",
+    "company": "Apparel Group",
+    "product": "AIVI",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "글이나 음성으로 상황별 코디를 묻고, 내 사진에 바로 입혀 본다. 고른 상품은 UAE에서 최대 60분 안에 배송된다.",
+    "categories": [
+      "패션·뷰티",
+      "쇼핑·결제"
+    ],
+    "idea": "음성으로 스타일 묻고 당일 배송까지 잇는 앱 흐름 만들기",
+    "novelty": 3,
+    "source_url": "https://www.globenewswire.com/news-release/2026/10/23/3387060/0/en/apparel-group-redefines-the-future-of-shopping-with-aivi-its-game-changing-ai-powered-shopping-app-launched-through-a-spectacular-star-studded-event.html",
+    "status": "확인됨",
+    "image": null,
+    "popularity": 38
+  },
+  {
+    "id": "canva-craft-20261022",
+    "date_added": "2026-10-22",
+    "date_announced": "2026-10-22",
+    "title": "레이어째 고치는 AI 이미지",
+    "company": "Canva",
+    "product": "Canva Craft",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "구도를 먼저 잡고 그려 글자가 또렷하고, 결과물을 글자·사물·배경 레이어로 나눠 바로 편집할 수 있습니다.",
+    "categories": [
+      "콘텐츠 제작"
+    ],
+    "idea": "AI로 만든 시즌 포스터를 매장별로 문구만 바꿔 쓰기",
+    "novelty": 3,
+    "source_url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "status": "미확인",
+    "image": "images/canva-craft-20261022.jpg",
+    "popularity": 61
+  },
+  {
+    "id": "arbelle-look-finder-20261022",
+    "date_added": "2026-10-22",
+    "date_announced": "2026-10-22",
+    "title": "내 얼굴에 맞는 메이크업 룩 추천",
+    "company": "Arbelle (Visage Technologies)",
+    "product": "Look Finder",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "얼굴 생김새와 피부톤을 보고 브랜드 제품으로 완성한 메이크업 룩을 추천한다. 내 얼굴에 입혀 본 뒤 바로 장바구니에 담는다.",
+    "categories": [
+      "패션·뷰티",
+      "쇼핑·결제"
+    ],
+    "idea": "얼굴형 분석으로 어울리는 안경 룩 세트 추천하기",
+    "novelty": 3,
+    "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-22-arbelle-launches-ai-look-finder-as-beauty-brands-turn-to-personalization-to-drive-e-commerce-growth",
+    "status": "확인됨",
+    "image": null,
+    "popularity": 27
+  },
+  {
+    "id": "walmart-agent-profiles-20261021",
+    "date_added": "2026-10-21",
+    "date_announced": "2026-10-21",
+    "title": "AI 대리 쇼핑에 한도를 거는 계정",
+    "company": "Walmart",
+    "product": "Agent Profiles / Agent Gateway",
+    "price": null,
+    "availability": "공개만",
+    "what_is_new": "내가 허락한 AI 에이전트마다 별도 프로필을 주고, 건별 승인이나 금액 한도를 정한다. 신용카드 가족카드처럼 AI에게 쇼핑을 맡기는 구조다.",
+    "categories": [
+      "쇼핑·결제"
+    ],
+    "idea": "AI가 대신 사도 되는 금액 한도 설정 화면 만들기",
+    "novelty": 4,
+    "source_url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "status": "확인됨",
+    "image": false,
+    "popularity": 60
+  },
+  {
+    "id": "target-ask-target-20261021",
+    "date_added": "2026-10-21",
+    "date_announced": "2026-10-21",
+    "title": "선물 고민을 대화로 좁혀주는 쇼핑 비서",
+    "company": "Target",
+    "product": "Ask Target",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "검색어 대신 받는 사람과 상황을 말하면 선물 후보를 좁혀주고 위시리스트를 만든다. 대형 마트 앱 안에 베타로 들어갔다.",
+    "categories": [
+      "쇼핑·결제"
+    ],
+    "idea": "선물 받을 사람 얼굴형을 묻고 안경 골라주는 대화창 넣기",
+    "novelty": 2,
+    "source_url": "https://corporate.target.com/press/release/2026/10/target-makes-it-easier-for-guests-to-discover-stylish-holiday-gifts-they-can-t-wait-to-give",
+    "status": "확인됨",
+    "image": null,
+    "popularity": 56
+  },
+  {
+    "id": "aimoga-mobo-20261021",
+    "date_added": "2026-10-21",
+    "date_announced": "2026-10-21",
+    "title": "가족 얼굴을 기억하는 집 동반 로봇",
+    "company": "AiMOGA (Chery)",
+    "product": "Mobo",
+    "price": null,
+    "availability": "사전예약",
+    "what_is_new": "90cm 크기 인간형 로봇이 아이에게 이야기를 들려주고 어른에게 알림을 줍니다. 얼굴로 가족을 구분해 각자의 기억을 따로 쌓습니다.",
+    "categories": [
+      "홈·로봇"
+    ],
+    "idea": "단골 얼굴을 알아보고 맞이하는 매장 안내 로봇 두기",
+    "novelty": 4,
+    "source_url": "https://autonews.gasgoo.com/articles/news/2112844054328393729",
+    "status": "확인됨",
+    "image": "images/aimoga-mobo-20261021.jpg",
+    "popularity": 46
+  },
+  {
+    "id": "choicetech-torriden-skin-kiosk-20261021",
+    "date_added": "2026-10-21",
+    "date_announced": "2026-10-21",
+    "title": "피부 찍고 제품 추천받는 매장 키오스크",
+    "company": "ChoiceTech Korea / Torriden",
+    "product": "ChoiceDx AI skin analysis kiosk",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "플래그십 매장에서 스스로 피부를 촬영하면 색소·유분·모공·주름을 분석해 제품을 추천한다. 결과는 QR로 휴대폰에 가져간다.",
+    "categories": [
+      "매장·리테일",
+      "패션·뷰티"
+    ],
+    "idea": "매장 얼굴 측정 결과를 QR로 고객 폰에 넘겨주기",
+    "novelty": 3,
+    "source_url": "https://www.kioskmarketplace.com/news/choicetech-korea-deploys-ai-skin-analysis-kiosk-at-seoul-flagship-store/",
+    "status": "확인됨",
+    "image": "images/choicetech-torriden-skin-kiosk-20261021.jpg",
+    "popularity": 24
+  },
+  {
+    "id": "higgsfield-3dangles-20261019",
+    "date_added": "2026-10-19",
+    "date_announced": "2026-10-19",
+    "title": "사진 한 장을 돌려 다시 찍는 도구",
+    "company": "Higgsfield",
+    "product": "3D Angles (ChatGPT 플러그인)",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "사진이나 영상을 3D 장면으로 바꿔 다른 각도에서 다시 찍습니다. 렌즈와 조리개도 골라 사진이나 짧은 영상으로 뽑습니다.",
+    "categories": [
+      "콘텐츠 제작",
+      "패션·뷰티"
+    ],
+    "idea": "제품 사진 한 장으로 측면·뒷면 컷까지 만들기",
+    "novelty": 4,
+    "source_url": "https://higgsfield.ai/creator-hub/changelog",
+    "status": "확인됨",
+    "image": false,
+    "popularity": 38
+  },
+  {
+    "id": "footlocker-fits-20261016",
+    "date_added": "2026-10-16",
+    "date_announced": "2026-10-16",
+    "title": "내 신발 찍으면 코디를 짜주는 옷장 앱",
+    "company": "Foot Locker (with Stylitics)",
+    "product": "Fits",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "이미 가진 아이템을 찍어 올리면 그걸 중심으로 전체 코디를 짜서 가상 모델에 입혀 보여준다. 모델 화면에서 코디 전체를 장바구니에 담는다.",
+    "categories": [
+      "패션·뷰티",
+      "쇼핑·결제"
+    ],
+    "idea": "고객이 가진 옷 사진으로 어울리는 안경 추천하기",
+    "novelty": 3,
+    "source_url": "https://retailtechinnovationhub.com/home/2026/10/15/foot-locker-teams-with-stylitics-as-retailer-taps-ai-technology-to-launch-app-based-closet-builder",
+    "status": "확인됨",
+    "image": "images/footlocker-fits-20261016.jpg",
+    "popularity": 30
+  },
+  {
+    "id": "amazon-bee-frontier-eclipse-20261015",
+    "date_added": "2026-10-15",
+    "date_announced": "2026-10-15",
+    "title": "버튼 누를 때만 듣고 정리하는 AI 밴드",
+    "company": "Amazon (Bee)",
+    "product": "Bee Frontier / Bee Eclipse",
+    "price": "$74.99",
+    "availability": "출시",
+    "what_is_new": "손목이나 옷에 차는 기기가 대화를 요약하고 할 일을 챙깁니다. 휴대폰 뒤에 붙는 카드형도 함께 나왔고, 녹음 원본은 남기지 않습니다.",
+    "categories": [
+      "웨어러블·안경",
+      "새 입력 방식"
+    ],
+    "idea": "휴대폰 뒷면에 붙이는 카드형 기능 액세서리 만들기",
+    "novelty": 4,
+    "source_url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+    "status": "확인됨",
+    "image": "images/amazon-bee-frontier-eclipse-20261015.jpg",
+    "popularity": 72
+  },
+  {
+    "id": "apple-apple-tv-4k-20261013",
+    "date_added": "2026-10-13",
+    "date_announced": "2026-10-13",
+    "title": "리모컨 없이 말로 묻는 AI TV 박스",
+    "company": "Apple",
+    "product": "Apple TV 4K (4th generation)",
+    "price": "$299",
+    "availability": "사전예약",
+    "what_is_new": "본체 마이크 3개로 리모컨 없이 말로 TV를 다룹니다. 보는 중에 물으면 화면 구석에 작게 답이 뜹니다.",
+    "categories": [
+      "새 입력 방식",
+      "홈·로봇"
+    ],
+    "idea": "매장 영상 화면에 손님이 말로 묻고 작은 자막으로 답하기",
+    "novelty": 3,
+    "source_url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+    "status": "확인됨",
+    "image": "images/apple-apple-tv-4k-20261013.jpg",
+    "popularity": 81
+  },
+  {
+    "id": "meta-facebook-youralgorithm-20261013",
+    "date_added": "2026-10-13",
+    "date_announced": "2026-10-13",
+    "title": "내 말로 피드 취향을 바꾸는 기능",
+    "company": "Meta",
+    "product": "Facebook 'Your algorithm'",
+    "price": "무료",
+    "availability": "출시",
+    "what_is_new": "보고 싶은 주제를 내 말로 적으면 AI가 알아듣고 피드와 릴스 추천을 바로 바꿉니다. '관심 없음' 뒤에 이유도 말할 수 있습니다.",
+    "categories": [
+      "SNS 트렌드"
+    ],
+    "idea": "앱 추천에 '원하는 스타일을 말로 적기' 칸 넣기",
+    "novelty": 3,
+    "source_url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
+    "status": "확인됨",
+    "image": false,
+    "popularity": 55
+  },
+  {
+    "id": "alibaba-qwen-glasses-n1-20261013",
+    "date_added": "2026-10-13",
+    "date_announced": "2026-10-13",
+    "title": "눈 홍채로 결제하는 AI 안경",
+    "company": "Alibaba",
+    "product": "Qwen Glasses N1 / N1 Pro",
+    "price": "¥2,899",
+    "availability": "출시",
+    "what_is_new": "프로 모델은 시선으로 조작하고 홍채 확인으로 결제합니다. 안경다리 배터리를 갈아 끼울 수 있고 번역·회의록도 됩니다.",
+    "categories": [
+      "웨어러블·안경",
+      "쇼핑·결제"
+    ],
+    "idea": "안경다리에 갈아 끼우는 배터리 모듈 넣기",
+    "novelty": 4,
+    "source_url": "https://technode.com/2026/10/14/alibaba-launches-qwen-n1-ai-glasses-with-swappable-batteries-starting-at-rmb-2899/",
+    "status": "확인됨",
+    "image": "images/alibaba-qwen-glasses-n1-20261013.jpg",
+    "popularity": 51
+  }
+]

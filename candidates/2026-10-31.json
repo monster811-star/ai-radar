@@ -1,0 +1,36 @@
+[
+  {
+    "id": "subvocal-glasses-20261030",
+    "date_announced": "2026-10-30",
+    "title": "소리 없이 입모양으로 쓰는 안경",
+    "company": "Subvocal",
+    "product": "Subvocal Glasses",
+    "price": "$499",
+    "availability": "사전예약",
+    "what_is_new": "소리 내지 않고 입만 움직여도 안경이 읽어 글자로 바꾼다. 말하는 속도로 메시지를 쓰고 AI에게 명령한다.",
+    "categories": ["새 입력 방식", "웨어러블·안경"],
+    "idea": "입모양만으로 매장 기기 조작 넣기",
+    "novelty": 4,
+    "popularity": 46,
+    "source_url": "https://www.digitaltrends.com/computing/subvocals-glasses-promise-to-let-you-talk-to-your-computer-in-complete-silence/",
+    "status": "확인됨",
+    "evidence": "Digital Trends·창업자 X(2026-10-30): 무음 입모양을 분당 200단어로 글자 변환, Early Bird $499 사전예약 개시(배송 2027 Q1)"
+  },
+  {
+    "id": "isho-ring-20261029",
+    "date_announced": "2026-10-29",
+    "title": "잠을 분석하는 AI 반지",
+    "company": "ISHO",
+    "product": "ISHO Ring",
+    "price": "¥1,799",
+    "availability": "사전예약",
+    "what_is_new": "손가락에 끼는 반지가 밤새 수면과 몸 상태를 재고, AI가 하루 컨디션 관리법을 알려준다.",
+    "categories": ["웨어러블·안경"],
+    "idea": "웨어러블로 손님 컨디션 재서 추천에 넣기",
+    "novelty": 3,
+    "popularity": 50,
+    "source_url": "https://technode.com/2026/10/30/former-xiaomi-executive-launches-smart-ring-and-ai-powered-sleep-system/",
+    "status": "확인됨",
+    "evidence": "TechNode(2026-10-30): ex-Xiaomi 임원 Wang Teng, 10/29 ISHO Ring·iFlow 공개, 사전예약 개시(반지 배송 11/11)"
+  }
+]
