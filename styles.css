@@ -247,6 +247,12 @@ button.chip:hover { border-color: var(--line-strong); }
 .week-legend li { display: inline-flex; align-items: center; gap: 6px; }
 .week-legend b { font-weight: 600; font-variant-numeric: tabular-nums; }
 
+/* 상단 피드 탭: AI 제품 / AI 뉴스 */
+.feed-tabs { display: inline-flex; gap: 4px; padding: 4px; margin-bottom: var(--s4); background: var(--accent-soft); border-radius: 999px; }
+.feed-tab { min-height: 38px; padding: 0 20px; border-radius: 999px; font-size: 15px; font-weight: 600; color: var(--fg-2); transition: color var(--t), background var(--t); }
+.feed-tab[aria-selected="true"] { color: var(--fg); background: var(--surface); box-shadow: 0 1px 2px rgba(0,0,0,0.08); }
+.feed-tab:not([aria-selected="true"]):hover { color: var(--fg); }
+
 /* 아카이브 */
 .ar-tabs { display: flex; gap: var(--s3); border-bottom: 1px solid var(--line); margin-bottom: var(--s3); }
 .ar-tab { min-height: 44px; font-size: 15px; font-weight: 500; color: var(--fg-2); border-bottom: 1.5px solid transparent; margin-bottom: -1px; transition: color var(--t), border-color var(--t); }

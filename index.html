@@ -23,6 +23,10 @@
 
 <main id="app">
   <section id="view-archive" class="wrap view">
+    <div class="feed-tabs" id="feedTabs" role="tablist" aria-label="피드">
+      <button type="button" class="feed-tab" role="tab" data-feed="product" aria-selected="true">AI 제품</button>
+      <button type="button" class="feed-tab" role="tab" data-feed="news" aria-selected="false">AI 뉴스</button>
+    </div>
     <div class="headline">
       <p class="hl-date tnum" id="hlDate"></p>
       <h1 class="hl-summary" id="hlSummary"><span class="sk sk-line w80"></span></h1>
@@ -33,7 +37,7 @@
     </div>
     <label class="search">
       <svg class="ic" aria-hidden="true"><use href="#i-search"/></svg>
-      <input id="q" type="search" placeholder="제목·회사·제품·아이디어 검색" autocomplete="off" aria-label="검색">
+      <input id="q" type="search" placeholder="제목·회사·내용 검색" autocomplete="off" aria-label="검색">
       <kbd>/</kbd>
     </label>
     <div class="chip-row scroll-x" id="arChips" aria-label="카테고리 필터"></div>

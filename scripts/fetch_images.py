@@ -11,7 +11,9 @@ import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-ITEMS = ROOT / "data" / "items.json"
+# 대상 파일: 인자로 지정 (예: data/news.json). 기본은 data/items.json
+_arg = next((a for a in sys.argv[1:] if not a.startswith("--")), None)
+ITEMS = (Path(_arg) if _arg and Path(_arg).is_absolute() else ROOT / (_arg or "data/items.json"))
 IMG = ROOT / "images"
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
 META = re.compile(r'<meta[^>]+(?:property|name)=["\'](?:og:image(?::secure_url)?|twitter:image(?::src)?)["\'][^>]*>', re.I)

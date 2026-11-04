@@ -1,0 +1,168 @@
+[
+  {
+    "id": "ai-bubble-selloff-20261103",
+    "date_added": "2026-11-04",
+    "date_announced": "2026-11-03",
+    "title": "AI 거품 우려로 기술주 급락",
+    "company": "빅테크 전반",
+    "what_is_new": "10월 6일 이후 AI·반도체 47개 종목에서 5조 달러 시가총액이 증발하고 나스닥이 하루 2.86% 급락하며 6월 이후 최악의 날을 기록했다.",
+    "why_it_matters": "올해 7천억 달러대 캐펙스의 투자 회수 시점에 대한 의구심이 커지며, AI 예산·채용·조달 전반이 보수적으로 바뀔 수 있다.",
+    "categories": [
+      "기업·자본"
+    ],
+    "importance": 84,
+    "source_url": "https://www.benzinga.com/markets/tech/26/11/62819082/tech-stocks-forward-pe-chatgpt-ai-selloff",
+    "status": "확인됨",
+    "image": null
+  },
+  {
+    "id": "openai-funding-cut-20261102",
+    "date_added": "2026-11-04",
+    "date_announced": "2026-11-02",
+    "title": "자금조달 목표 반토막",
+    "company": "OpenAI",
+    "what_is_new": "신규 투자 유치액이 약 110억 달러에 그쳐 당초 300억 달러 목표를 20억 달러대로 낮췄고, 기업가치도 1.25조 달러로 하향됐다.",
+    "why_it_matters": "최대 AI 기업조차 자금 조달에 제동이 걸렸다는 신호로, AI 투자 심리 냉각과 밸류에이션 재조정 압력을 보여준다.",
+    "categories": [
+      "기업·자본"
+    ],
+    "importance": 80,
+    "source_url": "https://dataconomy.com/2026/11/02/openai-secures-11-billion-after-cutting-funding-target",
+    "status": "확인됨",
+    "image": "images/openai-funding-cut-20261102.jpg"
+  },
+  {
+    "id": "nvidia-china-cap-20261103",
+    "date_added": "2026-11-04",
+    "date_announced": "2026-11-03",
+    "title": "중국 고객 비중 49%로 제한",
+    "company": "NVIDIA",
+    "what_is_new": "데이터센터·클라우드 파트너에게 신규 계약의 51% 이상을 비중국 기업에 판매하도록 구두로 요구했다고 FT가 보도했다.",
+    "why_it_matters": "GPU 기반 클라우드의 고객 구성을 바꾸는 사실상의 수출 통제로, 중국 관련 AI 인프라 사업 설계에 직접 영향을 준다.",
+    "categories": [
+      "인프라·칩",
+      "정책·규제"
+    ],
+    "importance": 78,
+    "source_url": "https://www.france24.com/en/live-news/20261103-nvidia-orders-data-center-clients-to-reduce-china-exposure-ft",
+    "status": "확인됨",
+    "image": null
+  },
+  {
+    "id": "nvidia-huggingface-20260903",
+    "date_added": "2026-11-04",
+    "date_announced": "2026-09-03",
+    "title": "허깅페이스 129억달러 인수",
+    "company": "NVIDIA",
+    "what_is_new": "오픈소스 AI 허브 허깅페이스를 약 129.3억 달러에 인수하는 확정 계약을 체결했고, 2027년 상반기 마무리를 목표로 한다.",
+    "why_it_matters": "수많은 팀이 의존하는 모델·데이터셋 허브가 GPU 기업 소유가 되면서, 오픈소스 생태계의 중립성·종속성 논의가 커졌다.",
+    "categories": [
+      "개발자·도구",
+      "기업·자본"
+    ],
+    "importance": 75,
+    "source_url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+    "status": "확인됨",
+    "image": "images/nvidia-huggingface-20260903.jpg"
+  },
+  {
+    "id": "menlo-enterprise-ai-20261103",
+    "date_added": "2026-11-04",
+    "date_announced": "2026-11-03",
+    "title": "엔터프라이즈 AI 지출 177조",
+    "company": "Menlo Ventures",
+    "what_is_new": "기업 AI 배포 지출이 1년 새 5.4배 늘어 1,768억 달러에 달했고, 앤트로픽이 엔터프라이즈 LLM API 점유율 55%로 OpenAI(31%)를 앞섰다.",
+    "why_it_matters": "에이전트가 토큰 소비의 80%를 차지하는 등 실사용이 급증했음을 보여줘, 벤더 선택·예산 배분의 기준점이 된다.",
+    "categories": [
+      "산업 도입",
+      "기업·자본"
+    ],
+    "importance": 72,
+    "source_url": "https://menlovc.com/perspective/2026-the-state-of-enterprise-ai/",
+    "status": "확인됨",
+    "image": "images/menlo-enterprise-ai-20261103.jpg"
+  },
+  {
+    "id": "google-gemini4-carbon-20261028",
+    "date_added": "2026-11-04",
+    "date_announced": "2026-10-28",
+    "title": "보안 전문 모델 공개",
+    "company": "Google",
+    "what_is_new": "소프트웨어 취약점을 찾아 공격 가능성을 검증하고 패치까지 작성하는 Gemini 4 Carbon을 공개해 우선 방어자에게 제공한다.",
+    "why_it_matters": "공격·방어 양쪽에 쓰일 수 있는 자동 취약점 모델로, 보안팀 업무와 AI 안전·오남용 논의에 직접 영향을 준다.",
+    "categories": [
+      "모델·연구",
+      "안전·윤리"
+    ],
+    "importance": 70,
+    "source_url": "https://betanews.com/article/gemini-4-carbon-cyber-defenders/",
+    "status": "확인됨",
+    "image": null
+  },
+  {
+    "id": "amd-worldlabs-20260928",
+    "date_added": "2026-11-04",
+    "date_announced": "2026-09-28",
+    "title": "월드랩스 82억달러 인수",
+    "company": "AMD",
+    "what_is_new": "페이페이 리가 공동 창업한 공간지능 스타트업 월드랩스를 82억 달러 전액 주식으로 인수하며, 리는 AMD 수석과학자로 합류한다.",
+    "why_it_matters": "칩 기업이 월드모델 역량을 내재화하는 움직임으로, 물리·공간 AI와 반도체 공동설계 경쟁이 본격화됨을 보여준다.",
+    "categories": [
+      "기업·자본",
+      "모델·연구"
+    ],
+    "importance": 64,
+    "source_url": "https://www.cnbc.com/2026/09/28/amd-fei-fei-li-world-labs.html",
+    "status": "확인됨",
+    "image": "images/amd-worldlabs-20260928.jpg"
+  },
+  {
+    "id": "grok-deepfake-lawsuit-20260928",
+    "date_added": "2026-11-04",
+    "date_announced": "2026-09-28",
+    "title": "딥페이크 집단소송 계속",
+    "company": "xAI",
+    "what_is_new": "그록이 동의 없는 성적 딥페이크·아동 성착취물을 생성했다는 집단소송에서 캘리포니아 연방법원이 소송 중단·이송 요청을 기각해 재판이 이어진다.",
+    "why_it_matters": "생성형 이미지 피해를 제품 안전·상해 책임으로 다루는 흐름이어서, 모델 안전장치와 법적 리스크 기준에 영향을 준다.",
+    "categories": [
+      "안전·윤리"
+    ],
+    "importance": 62,
+    "source_url": "https://cyberscoop.com/xai-grok-csam-class-action-lawsuit/",
+    "status": "미확인",
+    "image": "images/grok-deepfake-lawsuit-20260928.jpg"
+  },
+  {
+    "id": "microsoft-copilot-30m-20261030",
+    "date_added": "2026-11-04",
+    "date_announced": "2026-10-30",
+    "title": "코파일럿 유료 3천만 좌석",
+    "company": "Microsoft",
+    "what_is_new": "실적 발표에서 365 코파일럿 유료 좌석이 3천만을 넘고 일일 사용자가 5배 이상 늘었다고 밝혔다.",
+    "why_it_matters": "기업들이 AI 실험을 넘어 업무 프로세스 자동화로 넘어가고 있음을 보여주는 대표 지표로, 도입 사례 벤치마크가 된다.",
+    "categories": [
+      "산업 도입"
+    ],
+    "importance": 58,
+    "source_url": "https://www.pymnts.com/earnings/2026/microsoft-sees-enterprise-ai-adoption-accelerate-as-copilot-usage-grows/",
+    "status": "확인됨",
+    "image": "images/microsoft-copilot-30m-20261030.jpg"
+  },
+  {
+    "id": "tencent-hy4-openweight-20260828",
+    "date_added": "2026-11-04",
+    "date_announced": "2026-08-28",
+    "title": "저가 오픈웨이트 모델",
+    "company": "Tencent",
+    "what_is_new": "7,700억 파라미터 MoE 모델 Hy4 Preview를 아파치 2.0 라이선스로 공개했고, 출력 100만 토큰당 2.5달러 수준의 저가 API를 제공한다.",
+    "why_it_matters": "코딩 벤치마크에서 상위권을 보이면서도 가중치를 공개해, 자체 배포·비용 절감을 노리는 팀에 실용적 선택지가 된다.",
+    "categories": [
+      "개발자·도구",
+      "모델·연구"
+    ],
+    "importance": 50,
+    "source_url": "https://propakistani.pk/2026/11/04/tencent-unveils-its-most-powerful-ai-model-at-extremely-low-cost/",
+    "status": "확인됨",
+    "image": "images/tencent-hy4-openweight-20260828.jpg"
+  }
+]
