@@ -1,0 +1,19 @@
+[
+  {
+    "id": "google-ai-checkout-canada-20261104",
+    "date_announced": "2026-11-04",
+    "title": "대화하다 바로 사는 AI 쇼핑",
+    "company": "Google",
+    "product": "AI Mode·Gemini 직접 결제 (UCP)",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "검색·챗 화면에서 상품을 고르면 다른 사이트로 안 가고 그 자리에서 결제된다. 캐나다에서 먼저 시작.",
+    "categories": ["쇼핑·결제"],
+    "idea": "채팅 화면에 바로 결제 버튼 넣기",
+    "novelty": 3,
+    "popularity": 56,
+    "source_url": "https://blog.google/intl/en-ca/products/explore-get-answers/a-new-way-to-shop-introducing-a-more-intuitive-agentic-shopping-experience-for-consumers-and-retailers-in-canada/",
+    "status": "확인됨",
+    "evidence": "Google 캐나다 공식 블로그(2026-11-04)·Globe and Mail·BNN Bloomberg·Retail Insider: UCP 기반 직접 결제가 AI Mode·Gemini에서 캐나다 소비자에게 출시, lululemon·Shoppers Drug Mart·Simons·일부 Shopify 가맹점 참여. 주요 캐나다 매체(Globe and Mail·BNN) 포함 몇몇 매체 보도, TechCrunch·Verge 미픽업·소셜 화제 약함, 지역 확장 성격 → popularity 56"
+  }
+]
