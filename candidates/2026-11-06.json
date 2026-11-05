@@ -1,0 +1,19 @@
+[
+  {
+    "id": "aina-ring-20261105",
+    "date_announced": "2026-11-05",
+    "title": "화면 달린 AI 비서 반지",
+    "company": "Aina",
+    "product": "AI Ring",
+    "price": "$399",
+    "availability": "사전예약",
+    "what_is_new": "작은 화면과 마이크가 달린 반지. 말로 AI 비서를 시키고 손끝 조작으로 할 일을 승인한다. 다음에 필요한 걸 미리 띄워준다.",
+    "categories": ["웨어러블·안경", "새 입력 방식"],
+    "idea": "반지에 작은 화면 넣어 AI 시키기",
+    "novelty": 4,
+    "popularity": 62,
+    "source_url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+    "status": "확인됨",
+    "evidence": "TechCrunch 핸즈온(2026-11-05)·GlobeNewswire 보도자료(2026-11-05): 화면·조그(Shifter)·마이크·스피커 달린 스마트 반지, 음성으로 AI 에이전트 지시·메모·받아쓰기, 다음 행동 예측·승인. 사전예약 11-05 개시, 얼리버드 $399·정가 $499, 2027-01 배송 예정. 인기: TechCrunch 주요매체 핸즈온 1곳 + Digg·startuphub·superpowerdaily·aiweekly·HackerNoon 등 다수 니치 픽업, Verge·Engadget·CNBC 미픽업·뚜렷한 소셜 화제 없음 → popularity 62"
+  }
+]

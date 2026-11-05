@@ -1,5 +1,171 @@
 [
   {
+    "id": "chip-selloff-regfear-20261105",
+    "date_added": "2026-11-06",
+    "date_announced": "2026-11-05",
+    "title": "규제 공포에 반도체주 급락",
+    "company": "미국 증시",
+    "what_is_new": "민주당의 의회 장악 뒤 AI 규제 우려로 11월 5일 AMD 13%, 엔비디아 7%, 인텔 8%가 일제히 급락했다.",
+    "why_it_matters": "데이터센터 투자 축소 가능성이 호실적마저 눌러, AI 설비·예산 계획에 정치 리스크가 변수로 떠올랐다.",
+    "categories": [
+      "기업·자본",
+      "인프라·칩"
+    ],
+    "importance": 86,
+    "source_url": "https://247wallst.com/investing/2026/11/05/amd-tumbles-13-nvidia-slides-7-as-ai-regulation-fears-hit-chip-stocks-intel-sinks-8/",
+    "status": "확인됨",
+    "image": "images/chip-selloff-regfear-20261105.jpg"
+  },
+  {
+    "id": "us-congress-ai-pause-20261104",
+    "date_added": "2026-11-06",
+    "date_announced": "2026-11-04",
+    "title": "민주당 의회 장악에 AI 규제 압박",
+    "company": "미국 의회",
+    "what_is_new": "11월 3일 중간선거에서 민주당이 상·하원을 모두 장악하자, 한 의원이 첨단 AI 개발 중단과 초지능 금지를 촉구했다.",
+    "why_it_matters": "2027년부터 AI 안전·경쟁·데이터 청문회와 규제 입법이 본격화될 수 있어, 규제 대응 준비가 필요하다.",
+    "categories": [
+      "정책·규제"
+    ],
+    "importance": 82,
+    "source_url": "https://foley.com/insights/publications/2026/11/blue-wave-new-ai-rules-what-democratic-control-of-congress-means-for-ai-regulation",
+    "status": "확인됨",
+    "image": "images/us-congress-ai-pause-20261104.jpg"
+  },
+  {
+    "id": "openai-gpt6-cyber-20261105",
+    "date_added": "2026-11-06",
+    "date_announced": "2026-11-05",
+    "title": "사이버 공격·방어 전문 모델",
+    "company": "OpenAI",
+    "what_is_new": "오픈AI가 취약점을 찾아 공격·패치까지 하는 GPT-6 사이버를 공개했고, 파이어폭스 신규 취약점 81건을 찾아냈다.",
+    "why_it_matters": "'크리티컬' 등급으로 승인 고객에만 제한 공개돼, 공방 양용 AI의 통제·보안 업무 지형이 바뀐다.",
+    "categories": [
+      "모델·연구",
+      "안전·윤리"
+    ],
+    "importance": 68,
+    "source_url": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
+    "status": "확인됨",
+    "image": "images/openai-gpt6-cyber-20261105.jpg"
+  },
+  {
+    "id": "openai-gptimage26-20261104",
+    "date_added": "2026-11-06",
+    "date_announced": "2026-11-04",
+    "title": "이미지 모델 2.6 공개",
+    "company": "OpenAI",
+    "what_is_new": "오픈AI가 6초대 생성의 Flare와 고품질·SVG 내보내기 중심 Sunburst 등 이미지 모델 2.6을 공개했다.",
+    "why_it_matters": "4K·GIF·부분 수정까지 지원하면서 가격은 동결돼, 제작·디자인 워크플로에 바로 적용할 수 있다.",
+    "categories": [
+      "개발자·도구"
+    ],
+    "importance": 64,
+    "source_url": "https://aiweekly.co/alerts/openai-ships-chatgpt-images-26-with-gifs-and-faster-api-models",
+    "status": "확인됨",
+    "image": null
+  },
+  {
+    "id": "nvidia-h200-hongkong-20261105",
+    "date_added": "2026-11-06",
+    "date_announced": "2026-11-05",
+    "title": "H200 60만개 홍콩서 발 묶여",
+    "company": "NVIDIA",
+    "what_is_new": "엔비디아 H200 약 60만 개가 중국의 수입 승인 지연으로 홍콩 창고에 쌓여 있다고 로이터가 전했다.",
+    "why_it_matters": "세계 2위 시장의 AI 수요가 지정학에 막힌 상황이라, 중국향 GPU 공급 계획에 불확실성이 크다.",
+    "categories": [
+      "인프라·칩",
+      "정책·규제"
+    ],
+    "importance": 60,
+    "source_url": "https://ca.finance.yahoo.com/news/nvidia-chips-stockpile-hong-kong-120548918.html",
+    "status": "확인됨",
+    "image": false
+  },
+  {
+    "id": "capgemini-finance-agents-20261105",
+    "date_added": "2026-11-06",
+    "date_announced": "2026-11-05",
+    "title": "금융권 멀티에이전트 10%만 전사화",
+    "company": "Capgemini",
+    "what_is_new": "금융사 59%가 멀티에이전트 AI를 시험·도입했지만, 전사 차원에서 가동하는 곳은 10%에 그친다는 조사가 나왔다.",
+    "why_it_matters": "성과 중심 투자로 무게가 옮겨가고 모델 라우팅이 표준이 돼, 거버넌스 없이는 확산이 어렵다는 신호다.",
+    "categories": [
+      "산업 도입",
+      "기업·자본"
+    ],
+    "importance": 58,
+    "source_url": "https://news.europawire.eu/capgemini-study-finds-multi-agent-ai-adoption-advancing-in-banking-and-insurance-as-firms-seek-measurable-returns/eu-press-release/2026/11/05/14/59/07/186217",
+    "status": "확인됨",
+    "image": null
+  },
+  {
+    "id": "amd-record-q3-20261105",
+    "date_added": "2026-11-06",
+    "date_announced": "2026-11-05",
+    "title": "역대 최대 실적에도 주가 급락",
+    "company": "AMD",
+    "what_is_new": "AMD가 데이터센터 매출 97% 급증으로 사상 최대 분기 실적을 냈지만, 규제 우려에 주가는 13% 빠졌다.",
+    "why_it_matters": "탄탄한 수요에도 데이터센터 성장 지속성에 의심이 커졌음을 보여줘, AI 설비 투자 전망이 흔들린다.",
+    "categories": [
+      "기업·자본"
+    ],
+    "importance": 56,
+    "source_url": "https://247wallst.com/investing/2026/11/05/amd-tumbles-13-nvidia-slides-7-as-ai-regulation-fears-hit-chip-stocks-intel-sinks-8/",
+    "status": "확인됨",
+    "image": "images/amd-record-q3-20261105.jpg"
+  },
+  {
+    "id": "pangram-image-detect-20261104",
+    "date_added": "2026-11-06",
+    "date_announced": "2026-11-04",
+    "title": "AI 이미지·영상 탐지 모델 공개",
+    "company": "Pangram",
+    "what_is_new": "AI 생성 이미지·영상을 잡아내는 Image 1.0과 Flash 1.0이 공개됐고, 실사용에서 99.2% 탐지·오탐 0.27%를 주장한다.",
+    "why_it_matters": "딥페이크 대응과 콘텐츠 진위 검증 수요가 커지는 가운데, 플랫폼·미디어의 탐지 도구 선택지가 늘었다.",
+    "categories": [
+      "안전·윤리",
+      "모델·연구"
+    ],
+    "importance": 54,
+    "source_url": "https://www.unite.ai/pangram-launches-two-models-for-ai-image-and-video-detection/",
+    "status": "확인됨",
+    "image": "images/pangram-image-detect-20261104.jpg"
+  },
+  {
+    "id": "nvidia-oracle-rubin-20261105",
+    "date_added": "2026-11-06",
+    "date_announced": "2026-11-05",
+    "title": "베라루빈 클라우드 기가와트급 확장",
+    "company": "Oracle",
+    "what_is_new": "오라클과 엔비디아가 베라루빈 NVL72 기반 OCI 슈퍼클러스터를 멀티기가와트 규모로 확장한다고 밝혔다.",
+    "why_it_matters": "차세대 AI 학습·추론·에이전트 수요에 대응하는 대형 증설로, 클라우드 컴퓨팅 공급 경쟁이 가속된다.",
+    "categories": [
+      "인프라·칩"
+    ],
+    "importance": 50,
+    "source_url": "https://www.storagenewsletter.com/2026/11/05/oracle-ai-world-2026-nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure/",
+    "status": "확인됨",
+    "image": null
+  },
+  {
+    "id": "chamber-progress-ai-standards-20261104",
+    "date_added": "2026-11-06",
+    "date_announced": "2026-11-04",
+    "title": "새 의회에 연방 AI 안전기준 요구",
+    "company": "Chamber of Progress",
+    "what_is_new": "중도좌파 기술정책 연합이 2027년 새 의회에 연방 차원의 AI 투명성·안전 기준 제정 등 10대 과제를 제안했다.",
+    "why_it_matters": "민주당 주도 의회의 연방 AI 규제 논의 출발점이 될 수 있어, 규제 방향을 미리 가늠할 수 있다.",
+    "categories": [
+      "정책·규제",
+      "안전·윤리"
+    ],
+    "importance": 44,
+    "source_url": "https://nextgov.com/artificial-intelligence/2026/11/tech-policy-coalition-calls-new-congress-set-ai-safety-standards/417077",
+    "status": "미확인",
+    "image": "images/chamber-progress-ai-standards-20261104.jpg"
+  },
+  {
     "id": "eu-aiact-dec2-20261103",
     "date_added": "2026-11-05",
     "date_announced": "2026-11-03",
