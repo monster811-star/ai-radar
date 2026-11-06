@@ -1,5 +1,173 @@
 [
   {
+    "id": "nvidia-china-congress-20261106",
+    "date_added": "2026-11-07",
+    "date_announced": "2026-11-06",
+    "title": "엔비디아, 의회 대중 수출 조사",
+    "company": "NVIDIA",
+    "what_is_new": "민주당이 장악한 미 의회가 젠슨 황에게 AI 칩이 중국 등 적성국으로 흘러가지 않게 충분히 막고 있는지 따지기 시작했다.",
+    "why_it_matters": "중국향 GPU 수출 규제가 더 조여질 수 있어, 공급망·판매 계획의 불확실성이 커진다.",
+    "categories": [
+      "정책·규제",
+      "인프라·칩"
+    ],
+    "importance": 72,
+    "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-s-ai-chip-exports-emerge-as-target-in-democratic-congress",
+    "status": "확인됨",
+    "image": null
+  },
+  {
+    "id": "fal-series-f-20261106",
+    "date_added": "2026-11-07",
+    "date_announced": "2026-11-06",
+    "title": "AI 추론 스타트업 13억달러 조달",
+    "company": "Fal",
+    "what_is_new": "AI 추론 인프라 기업 팔(Fal)이 시리즈F로 13억달러를 유치해 기업가치가 160억달러로 두 배가 됐다.",
+    "why_it_matters": "엔비디아·베서머가 참여한 대형 투자로, 추론 전용 인프라 수요가 자본을 빨아들이는 흐름이 뚜렷하다.",
+    "categories": [
+      "기업·자본",
+      "인프라·칩"
+    ],
+    "importance": 70,
+    "source_url": "https://www.analyticsinsight.net/news/weekly-startup-funding-roundup-fal-secures-usd-13-billion-nooks-raises-usd-500-million",
+    "status": "확인됨",
+    "image": "images/fal-series-f-20261106.jpg"
+  },
+  {
+    "id": "shield-ai-series-h-20261106",
+    "date_added": "2026-11-07",
+    "date_announced": "2026-11-06",
+    "title": "방산 AI, 8개월 만에 몸값 2배",
+    "company": "Shield AI",
+    "what_is_new": "방산 AI 스타트업 실드AI가 10억달러를 추가 조달하며 기업가치가 288억달러로 3월 대비 두 배 이상 뛰었다.",
+    "why_it_matters": "자율 무기·국방 AI에 자본이 몰리며, 방산이 AI 투자의 새 격전지로 떠오른다.",
+    "categories": [
+      "기업·자본"
+    ],
+    "importance": 62,
+    "source_url": "https://www.benzinga.com/markets/private-markets/26/11/63014426/defense-tech-startup-shield-ai-soars-to-28-8b-valuation-up-127-since-march",
+    "status": "확인됨",
+    "image": null
+  },
+  {
+    "id": "meta-conductor-20261105",
+    "date_added": "2026-11-07",
+    "date_announced": "2026-11-05",
+    "title": "메타, 병렬 에이전트 도구 인수",
+    "company": "Meta",
+    "what_is_new": "메타가 여러 AI 코딩 에이전트를 병렬 작업공간에서 돌리는 도구를 만든 컨덕터를 인수했고, 클라우드는 11월 20일 종료한다.",
+    "why_it_matters": "빅테크가 에이전트 개발 도구를 빨아들이며, 멀티에이전트 코딩이 핵심 경쟁 영역이 됐다.",
+    "categories": [
+      "기업·자본",
+      "개발자·도구"
+    ],
+    "importance": 58,
+    "source_url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-6-2026-openai-ships-gpt-6-cyber-meta-buys-conductor-anthropic-locks-1jij",
+    "status": "확인됨",
+    "image": false
+  },
+  {
+    "id": "eu-aiact-csam-ban-20261105",
+    "date_added": "2026-11-07",
+    "date_announced": "2026-11-05",
+    "title": "EU, 딥페이크 성착취물 금지 발효",
+    "company": "EU",
+    "what_is_new": "EU AI법의 새 금지 조항으로 비동의 성적 이미지·아동 성착취물을 만드는 AI가 12월 2일부터 전면 금지된다.",
+    "why_it_matters": "생성 AI 서비스는 해당 악용 차단 장치를 갖춰야 해, 안전·규정 준수 대응이 시급하다.",
+    "categories": [
+      "정책·규제",
+      "안전·윤리"
+    ],
+    "importance": 56,
+    "source_url": "https://encorp.ai/en/blog/eu-ai-act-digital-omnibus-2026-11-05",
+    "status": "확인됨",
+    "image": "images/eu-aiact-csam-ban-20261105.jpg"
+  },
+  {
+    "id": "amd-datacenter-first-20261106",
+    "date_added": "2026-11-07",
+    "date_announced": "2026-11-06",
+    "title": "AMD \"이제 데이터센터 회사\"",
+    "company": "AMD",
+    "what_is_new": "리사 수 CEO가 AMD를 '데이터센터 우선 기업'으로 규정했고, 데이터센터 매출이 두 배로 늘 때 게이밍은 40% 줄었다.",
+    "why_it_matters": "AMD 무게중심이 AI 가속기로 완전히 넘어가, 엔비디아와의 데이터센터 경쟁이 더 치열해진다.",
+    "categories": [
+      "기업·자본",
+      "인프라·칩"
+    ],
+    "importance": 52,
+    "source_url": "https://videocardz.com/newz/amd-ceo-lisa-su-we-are-a-data-center-first-company",
+    "status": "확인됨",
+    "image": null
+  },
+  {
+    "id": "sentra-series-c-20261106",
+    "date_added": "2026-11-07",
+    "date_announced": "2026-11-06",
+    "title": "AI 에이전트 데이터보안에 1.5억달러",
+    "company": "Sentra",
+    "what_is_new": "기업이 AI 에이전트의 민감정보 접근을 보고 통제하도록 돕는 센트라가 시리즈C로 1억5천만달러를 유치했다.",
+    "why_it_matters": "에이전트 확산으로 데이터 유출 위험이 커지며, 거버넌스·보안 도구 수요가 빠르게 늘고 있다.",
+    "categories": [
+      "기업·자본",
+      "안전·윤리"
+    ],
+    "importance": 50,
+    "source_url": "https://ai2roi.substack.com/p/ai-to-roi-news-and-analysis-november",
+    "status": "확인됨",
+    "image": false
+  },
+  {
+    "id": "anthropic-enterprise-security-20261105",
+    "date_added": "2026-11-07",
+    "date_announced": "2026-11-05",
+    "title": "클로드 기업용 보안 강화",
+    "company": "Anthropic",
+    "what_is_new": "앤트로픽이 프롬프트 훅, 감사 리포트용 보안센터, 다조직 관리 콘솔 등 클로드 엔터프라이즈 보안 기능을 추가했다.",
+    "why_it_matters": "규제·감사 요건을 맞춰, 민감 업무에 클로드를 도입하려는 기업의 문턱이 낮아진다.",
+    "categories": [
+      "개발자·도구",
+      "안전·윤리"
+    ],
+    "importance": 48,
+    "source_url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-6-2026-openai-ships-gpt-6-cyber-meta-buys-conductor-anthropic-locks-1jij",
+    "status": "확인됨",
+    "image": false
+  },
+  {
+    "id": "five9-level-ai-20261106",
+    "date_added": "2026-11-07",
+    "date_announced": "2026-11-06",
+    "title": "파이브나인, CX AI 3.25억 인수",
+    "company": "Five9",
+    "what_is_new": "콜센터 소프트웨어 기업 파이브나인이 AI 네이티브 고객경험 플랫폼 레벨AI를 약 3억2500만달러 현금에 인수한다.",
+    "why_it_matters": "고객센터 자동화에 AI 에이전트를 통합하려는 경쟁이 가열되며, CX 업계 재편이 빨라진다.",
+    "categories": [
+      "기업·자본",
+      "산업 도입"
+    ],
+    "importance": 46,
+    "source_url": "https://ai2roi.substack.com/p/ai-to-roi-news-and-analysis-november",
+    "status": "확인됨",
+    "image": false
+  },
+  {
+    "id": "sambanova-supermicro-20261105",
+    "date_added": "2026-11-07",
+    "date_announced": "2026-11-05",
+    "title": "삼바노바·슈퍼마이크로 추론 협력",
+    "company": "SambaNova",
+    "what_is_new": "삼바노바와 슈퍼마이크로가 SN50 칩과 엔비디아 GPU를 결합한 추론 시스템을 내놓고, 초기 1만 개 칩을 투입한다.",
+    "why_it_matters": "추론 전용 가속기와 GPU를 섞는 구성이 늘며, 비엔비디아 추론 대안의 폭이 넓어진다.",
+    "categories": [
+      "인프라·칩"
+    ],
+    "importance": 42,
+    "source_url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-6-2026-openai-ships-gpt-6-cyber-meta-buys-conductor-anthropic-locks-1jij",
+    "status": "확인됨",
+    "image": false
+  },
+  {
     "id": "chip-selloff-regfear-20261105",
     "date_added": "2026-11-06",
     "date_announced": "2026-11-05",

@@ -1,5 +1,45 @@
 [
   {
+    "id": "samsung-intelligent-eyewear-20261106",
+    "date_added": "2026-11-07",
+    "date_announced": "2026-11-06",
+    "title": "보이는 걸 묻는 AI 안경",
+    "company": "Samsung",
+    "product": "Samsung Intelligent Eyewear",
+    "price": null,
+    "availability": "공개만",
+    "what_is_new": "화면 대신 카메라와 스피커만 달렸다. 보이는 걸 물으면 AI가 소리로 답하고 길도 안내한다.",
+    "categories": [
+      "웨어러블·안경"
+    ],
+    "idea": "안경 디자인에 카메라와 AI 비서 숨겨 넣기",
+    "novelty": 3,
+    "popularity": 88,
+    "source_url": "https://www.sammobile.com/news/samsung-intelligent-eyewear-glasses-pre-order-date",
+    "status": "확인됨",
+    "image": "images/samsung-intelligent-eyewear-20261106.jpg"
+  },
+  {
+    "id": "aceiilab-a1-20261105",
+    "date_added": "2026-11-07",
+    "date_announced": "2026-11-05",
+    "title": "혼자 쳐도 받아주는 AI 테니스 로봇",
+    "company": "AceiiLab",
+    "product": "A1",
+    "price": "$2,399",
+    "availability": "출시",
+    "what_is_new": "코트를 스스로 움직이며 공을 받아친다. 카메라로 내 샷을 따라가 진짜 랠리처럼 공을 보내준다.",
+    "categories": [
+      "홈·로봇"
+    ],
+    "idea": "움직이며 반응하는 체험형 매장 로봇 만들기",
+    "novelty": 4,
+    "popularity": 25,
+    "source_url": "https://www.globenewswire.com/news-release/2026/11/05/3396330/0/en/aceiilab-introduces-a1-smart-ai-tennis-robot-to-bring-moving-rallies-to-solo-practice.html",
+    "status": "확인됨",
+    "image": null
+  },
+  {
     "id": "aina-ring-20261105",
     "date_added": "2026-11-06",
     "date_announced": "2026-11-05",

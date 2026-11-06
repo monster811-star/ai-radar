@@ -1,0 +1,36 @@
+[
+  {
+    "id": "samsung-intelligent-eyewear-20261106",
+    "date_announced": "2026-11-06",
+    "title": "보이는 걸 묻는 AI 안경",
+    "company": "Samsung",
+    "product": "Samsung Intelligent Eyewear",
+    "price": null,
+    "availability": "공개만",
+    "what_is_new": "화면 대신 카메라와 스피커만 달렸다. 보이는 걸 물으면 AI가 소리로 답하고 길도 안내한다.",
+    "categories": ["웨어러블·안경"],
+    "idea": "안경 디자인에 카메라와 AI 비서 숨겨 넣기",
+    "novelty": 3,
+    "popularity": 88,
+    "source_url": "https://www.sammobile.com/news/samsung-intelligent-eyewear-glasses-pre-order-date",
+    "status": "확인됨",
+    "evidence": "SamMobile(2026-11-06)·Korea Herald·Newsweek·GSMArena 등 다수: 삼성 첫 AI 안경, Gemini·Android XR, Snapdragon AR1·12MP 카메라·개방형 스피커·화면 없음, 젠틀몬스터/워비파커 디자인 협업. 11-06부터 워비파커 65개 매장 체험 시작, 미국 사전예약 11-12 개시(가격 그때 공개), 12월 미·한 출시. 인기: SamMobile 다수·PhoneArena·9to5Google·AndroidHeadlines·TechTimes·Newsweek·Korea Herald 등 주요·준주요 매체 광범위 + 삼성/구글 플래그십 → popularity 88"
+  },
+  {
+    "id": "aceiilab-a1-20261105",
+    "date_announced": "2026-11-05",
+    "title": "혼자 쳐도 받아주는 AI 테니스 로봇",
+    "company": "AceiiLab",
+    "product": "A1",
+    "price": "$2,399",
+    "availability": "출시",
+    "what_is_new": "코트를 스스로 움직이며 공을 받아친다. 카메라로 내 샷을 따라가 진짜 랠리처럼 공을 보내준다.",
+    "categories": ["홈·로봇"],
+    "idea": "움직이며 반응하는 체험형 매장 로봇 만들기",
+    "novelty": 4,
+    "popularity": 25,
+    "source_url": "https://www.globenewswire.com/news-release/2026/11/05/3396330/0/en/aceiilab-introduces-a1-smart-ai-tennis-robot-to-bring-moving-rallies-to-solo-practice.html",
+    "status": "확인됨",
+    "evidence": "GlobeNewswire(2026-11-05): 시각 추적·자율 주행으로 베이스라인을 최대 4m/s로 이동하며 공을 받아치는 AI 테니스 로봇, 듀얼 런처 최대 80mph·0.5초 간격, 120구 수납 캐리어형, 컴패니언 앱 드릴·랭킹. $2,399(정가 $2,599) 판매 중. 인기: GlobeNewswire 보도자료 + Manila Times·Yahoo Finance 재배포·KuCoin·openpr 등 신디케이션, 테니스/로봇 니치 블로그만, 주요 테크매체 미픽업 → popularity 25"
+  }
+]
