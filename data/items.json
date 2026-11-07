@@ -1,5 +1,46 @@
 [
   {
+    "id": "amazon-alexa-text-shopping-20261106",
+    "date_added": "2026-11-08",
+    "date_announced": "2026-11-06",
+    "title": "문자로 주문하는 쇼핑 비서",
+    "company": "Amazon",
+    "product": "Alexa for Shopping (text)",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "연락처 속 비서에게 문자를 보내면 상품을 찾아 담고 결제까지 해준다. 가격 추적과 배송 조회도 문자로 된다.",
+    "categories": [
+      "쇼핑·결제"
+    ],
+    "idea": "문자 한 줄로 주문받는 쇼핑 상담 넣기",
+    "novelty": 3,
+    "popularity": 70,
+    "source_url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+    "status": "확인됨",
+    "image": "images/amazon-alexa-text-shopping-20261106.jpg"
+  },
+  {
+    "id": "theinfluence-prelulu-20261105",
+    "date_added": "2026-11-08",
+    "date_announced": "2026-11-05",
+    "title": "영상통화로 노는 AI 캐릭터",
+    "company": "TheInfluence",
+    "product": "Prelulu",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "텍스트로 이어가던 역할극을 바로 영상통화로 전환한다. AI 캐릭터가 실시간 얼굴·목소리로 답하고 말을 끊어도 된다.",
+    "categories": [
+      "콘텐츠 제작",
+      "SNS 트렌드"
+    ],
+    "idea": "브랜드 캐릭터와 영상통화하게 만들기",
+    "novelty": 4,
+    "popularity": 24,
+    "source_url": "https://finance.yahoo.com/technology/ai/articles/theinfluence-inc-launches-prelulu-real-181700452.html",
+    "status": "확인됨",
+    "image": false
+  },
+  {
     "id": "samsung-intelligent-eyewear-20261106",
     "date_added": "2026-11-07",
     "date_announced": "2026-11-06",

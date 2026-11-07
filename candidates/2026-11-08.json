@@ -1,0 +1,36 @@
+[
+  {
+    "id": "amazon-alexa-text-shopping-20261106",
+    "date_announced": "2026-11-06",
+    "title": "문자로 주문하는 쇼핑 비서",
+    "company": "Amazon",
+    "product": "Alexa for Shopping (text)",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "연락처 속 비서에게 문자를 보내면 상품을 찾아 담고 결제까지 해준다. 가격 추적과 배송 조회도 문자로 된다.",
+    "categories": ["쇼핑·결제"],
+    "idea": "문자 한 줄로 주문받는 쇼핑 상담 넣기",
+    "novelty": 3,
+    "popularity": 70,
+    "source_url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+    "status": "확인됨",
+    "evidence": "TechCrunch·The Verge·aboutamazon(공식)·MarketScale·ppc.land·shiftdelete·globetv 등 다수(2026-11-06): Alexa for Shopping을 문자(SMS)로 쓰게 함. 연락처에 'Alexa Shopping'으로 뜨고 검색·비교·장바구니·결제(승인)·재주문·주간 장보기·가격 추적(1년 내역)·배송 조회를 문자로 처리, 앱/Amazon.com/기기와 동기화. 미국 소수 초대제로 11-06 시작, 수주 내 수백만명 확대. 인기: 주요 매체 TechCrunch·The Verge + Amazon 대형 브랜드 + 홀리데이 시즌 → popularity 70"
+  },
+  {
+    "id": "theinfluence-prelulu-20261105",
+    "date_announced": "2026-11-05",
+    "title": "영상통화로 노는 AI 캐릭터",
+    "company": "TheInfluence",
+    "product": "Prelulu",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "텍스트로 이어가던 역할극을 바로 영상통화로 전환한다. AI 캐릭터가 실시간 얼굴·목소리로 답하고 말을 끊어도 된다.",
+    "categories": ["콘텐츠 제작", "SNS 트렌드"],
+    "idea": "브랜드 캐릭터와 영상통화하게 만들기",
+    "novelty": 4,
+    "popularity": 24,
+    "source_url": "https://finance.yahoo.com/technology/ai/articles/theinfluence-inc-launches-prelulu-real-181700452.html",
+    "status": "확인됨",
+    "evidence": "Yahoo Finance·FinancialContent·Newsfile(보도자료, 2026-11-05)·Designbeep(11-05): TheInfluence Inc.(샌머테이오)가 실시간 AI 영상 스토리 앱 Prelulu 출시. 캐릭터 고르고 텍스트 역할극을 하다 라이브 영상/음성 통화로 전환, 자체 아바타 모델로 얼굴·입모양·목소리를 실시간 생성(지연 200~300ms)해 중간에 말 끊기 가능. 웹·iOS·Android, 16세 이상, 크레딧제(무료 체험 제공). 11-04 Product Hunt 데뷔. 인기: 보도자료 신디케이션 위주 + 니치 블로그, 주요 테크매체 미픽업·App Store 평점 13개로 소규모 → popularity 24"
+  }
+]
