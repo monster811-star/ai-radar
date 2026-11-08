@@ -1,5 +1,45 @@
 [
   {
+    "id": "meta-muse-spaces-20261107",
+    "date_added": "2026-11-09",
+    "date_announced": "2026-11-07",
+    "title": "말로 만드는 미니 앱",
+    "company": "Meta",
+    "product": "Muse Spaces",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "원하는 걸 말로 설명하면 AI가 맞춤 앱을 만들어 준다. 선물 추적·할 일판 같은 걸 코딩 없이 만든다.",
+    "categories": [
+      "콘텐츠 제작"
+    ],
+    "idea": "말로 설명해 나만의 앱 만들기",
+    "novelty": 4,
+    "popularity": 78,
+    "source_url": "https://www.digitaltrends.com/phones/metas-now-lets-you-build-custom-mini-app-experiences-in-the-muse-app/",
+    "status": "확인됨",
+    "image": "images/meta-muse-spaces-20261107.jpg"
+  },
+  {
+    "id": "aimoga-mobo-20261107",
+    "date_added": "2026-11-09",
+    "date_announced": "2026-11-07",
+    "title": "집에서 함께 사는 로봇",
+    "company": "AiMOGA",
+    "product": "Mobo",
+    "price": null,
+    "availability": "사전예약",
+    "what_is_new": "키 90cm 휴머노이드가 집안일을 돕고 대화한다. 가족 취향을 기억하고 사물을 알아본다.",
+    "categories": [
+      "홈·로봇"
+    ],
+    "idea": "가족 취향 기억하는 집사 로봇 넣기",
+    "novelty": 4,
+    "popularity": 38,
+    "source_url": "https://www.prnewswire.com/apac/news-releases/home-companion-robot-mobo-to-debut-globally-and-open-pre-orders-as-aimoga-showcases-its-robot-family-at-the-2026-omoda--jaecoo-international-user-summit-302932549.html",
+    "status": "확인됨",
+    "image": "images/aimoga-mobo-20261107.jpg"
+  },
+  {
     "id": "amazon-alexa-text-shopping-20261106",
     "date_added": "2026-11-08",
     "date_announced": "2026-11-06",

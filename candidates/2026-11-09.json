@@ -1,0 +1,36 @@
+[
+  {
+    "id": "meta-muse-spaces-20261107",
+    "date_announced": "2026-11-07",
+    "title": "말로 만드는 미니 앱",
+    "company": "Meta",
+    "product": "Muse Spaces",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "원하는 걸 말로 설명하면 AI가 맞춤 앱을 만들어 준다. 선물 추적·할 일판 같은 걸 코딩 없이 만든다.",
+    "categories": ["콘텐츠 제작"],
+    "idea": "말로 설명해 나만의 앱 만들기",
+    "novelty": 4,
+    "popularity": 78,
+    "source_url": "https://www.digitaltrends.com/phones/metas-now-lets-you-build-custom-mini-app-experiences-in-the-muse-app/",
+    "status": "확인됨",
+    "evidence": "The Verge·TechCrunch·Digital Trends·ppc.land·Storyboard18 등 다수(2026-11-07): Meta가 AI 비서 앱 Muse에 'Spaces' 출시. 사용자가 아이디어를 말로 설명하면 Muse가 코딩 없이 맞춤 미니 앱(선물 추적기·단어 게임·DIY 플래너 등)을 만들어 준다. 사이드바/탭에 고정, 예약 노출, Gmail·구글 캘린더·OpenTable·Notion 등 연동해 백그라운드로 갱신. Muse 제공 전 지역에 11-07 출시(하루 전 Muse Voice 영상통화 출시, Muse 미국·캐나다 1천만명 돌파). 인기: 주요 매체 The Verge·TechCrunch 다수 + Meta 대형 브랜드 → popularity 78"
+  },
+  {
+    "id": "aimoga-mobo-20261107",
+    "date_announced": "2026-11-07",
+    "title": "집에서 함께 사는 로봇",
+    "company": "AiMOGA",
+    "product": "Mobo",
+    "price": null,
+    "availability": "사전예약",
+    "what_is_new": "키 90cm 휴머노이드가 집안일을 돕고 대화한다. 가족 취향을 기억하고 사물을 알아본다.",
+    "categories": ["홈·로봇"],
+    "idea": "가족 취향 기억하는 집사 로봇 넣기",
+    "novelty": 4,
+    "popularity": 38,
+    "source_url": "https://www.prnewswire.com/apac/news-releases/home-companion-robot-mobo-to-debut-globally-and-open-pre-orders-as-aimoga-showcases-its-robot-family-at-the-2026-omoda--jaecoo-international-user-summit-302932549.html",
+    "status": "확인됨",
+    "evidence": "PR Newswire(공식)·kr-asia·Automotive World·CnEVPost 등(2026-11-07): Chery 계열 AiMOGA Robotics가 가정용 휴머노이드 Mobo를 OMODA & JAECOO 유저 서밋에서 글로벌 데뷔하고 전 세계 사전예약을 열었다. 키 0.9m·22자유도, 자율 주행, 음성+비전 대화, 20여 개 언어, 가족 구성원 습관 기억·사물 인식, MoAgent AI 탑재. 가격·배송 시기는 미공개(추정 3,000~8,000달러), 서밋 전 1만명 이상 관심. 인기: 보도자료 신디케이션·지역/업계 매체 위주, 주요 테크매체(The Verge·TechCrunch) 미픽업 → popularity 38"
+  }
+]
