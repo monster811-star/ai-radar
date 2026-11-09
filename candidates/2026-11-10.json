@@ -1,0 +1,19 @@
+[
+  {
+    "id": "medium-tk-20261109",
+    "date_announced": "2026-11-09",
+    "title": "글쓰기 돕는 비공개 노트",
+    "company": "Medium",
+    "product": "TK",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "혼자 쓰던 글을 특정인에게만 공유하거나 그룹과 함께 쓴다. 문장 중간에 AI를 불러 사실을 확인하고 지난 메모를 가져온다.",
+    "categories": ["콘텐츠 제작", "SNS 트렌드"],
+    "idea": "비공개로 함께 쓰는 글방 만들기",
+    "novelty": 3,
+    "popularity": 68,
+    "source_url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+    "status": "확인됨",
+    "evidence": "TechCrunch·The Verge·Digg·tbreak·wersm 등 다수(2026-11-09): Medium이 2017년 이후 첫 대형 신제품으로 AI 노트·저널·비공개 소셜 앱 'TK'를 웹·안드로이드·iOS에 출시. 기본 비공개, 특정인 공유 또는 Libraries(그룹이 함께 쓰고 댓글·반응) 가능. 문장 중간 @TK로 사실 확인·지난 메모 호출, MCP 서버와 Claude 스킬 포함해 외부 AI가 저장 글을 읽음. Medium 계정 있으면 무료. 인기: 주요 매체 TechCrunch·The Verge 포함 다수 보도, 소셜 반응은 보통 → popularity 68"
+  }
+]

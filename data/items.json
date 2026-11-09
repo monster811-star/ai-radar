@@ -1,5 +1,26 @@
 [
   {
+    "id": "medium-tk-20261109",
+    "date_added": "2026-11-10",
+    "date_announced": "2026-11-09",
+    "title": "글쓰기 돕는 비공개 노트",
+    "company": "Medium",
+    "product": "TK",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "혼자 쓰던 글을 특정인에게만 공유하거나 그룹과 함께 쓴다. 문장 중간에 AI를 불러 사실을 확인하고 지난 메모를 가져온다.",
+    "categories": [
+      "콘텐츠 제작",
+      "SNS 트렌드"
+    ],
+    "idea": "비공개로 함께 쓰는 글방 만들기",
+    "novelty": 3,
+    "popularity": 68,
+    "source_url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+    "status": "확인됨",
+    "image": false
+  },
+  {
     "id": "meta-muse-spaces-20261107",
     "date_added": "2026-11-09",
     "date_announced": "2026-11-07",
