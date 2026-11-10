@@ -1,0 +1,53 @@
+[
+  {
+    "id": "adobe-creative-agent-20261110",
+    "date_announced": "2026-11-10",
+    "title": "대신 편집해주는 AI 비서",
+    "company": "Adobe",
+    "product": "Creative Agent (+ MCP)",
+    "price": null,
+    "availability": "공개만",
+    "what_is_new": "항상 켜진 AI가 작업을 지켜보다 배경 지우기 같은 걸 알아서 처리한다. 챗GPT·클로드 같은 외부 AI로도 포토샵을 다룰 수 있다.",
+    "categories": ["콘텐츠 제작"],
+    "idea": "말로 제품 이미지 보정 자동화하기",
+    "novelty": 3,
+    "popularity": 82,
+    "source_url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+    "status": "확인됨",
+    "evidence": "TechCrunch·Variety·CreativeBloq·CreativeBoom·MakeUseOf·CameraJabber·mlq·insideAI 등 다수(2026-11-10): Adobe MAX 2026에서 '항상 켜진 proactive Creative Agent'를 Photoshop·Premiere·Illustrator에 도입, 배경 제거·썸네일 생성 등 빠른 작업 수행. Firefly를 AI 크리에이티브 스튜디오로 재구성, 로컬 MCP 지원으로 ChatGPT·Claude·Gemini 등 외부 에이전트가 네이티브 프로젝트 파일을 편집. 인기: Adobe MAX 대형 이벤트로 주요·전문 매체 다수 보도 → popularity 82"
+  },
+  {
+    "id": "warbyparker-intelligent-eyewear-20261109",
+    "date_announced": "2026-11-09",
+    "title": "패션 안경으로 나온 AI 안경",
+    "company": "Warby Parker",
+    "product": "Intelligent Eyewear",
+    "price": null,
+    "availability": "사전예약",
+    "what_is_new": "화면 없이 카메라와 마이크로 주변을 보고 들으면 AI가 소리로 답한다. 유명 안경 브랜드가 만들어 사전예약을 연다.",
+    "categories": ["웨어러블·안경", "패션·뷰티"],
+    "idea": "패션 브랜드로 AI 안경 라인 만들기",
+    "novelty": 3,
+    "popularity": 72,
+    "source_url": "https://gcn.com/warby-parker-smart-glasses-preorder/23120/",
+    "status": "확인됨",
+    "evidence": "GCN·Mezha·Korea JoongAng Daily·TechCity·BigGo·Asia Business Daily 등 다수(2026-11-09): Warby Parker가 Q3 실적 발표에서 Android XR 기반 'Intelligent Eyewear' 사전예약을 11월 12일 연다고 공개. Samsung·Google과 공동 개발, 화면 없이 카메라·마이크로 주변을 포착하고 연결된 Galaxy폰의 Gemini가 처리해 스피커로만 응답. Warby Parker·Gentle Monster가 Google의 리테일 디자인 파트너. 12월 홀리데이 출하 전망. 인기: 글로벌·한국 매체 다수 보도, 삼성/구글 안경 화제에 연동 → popularity 72"
+  },
+  {
+    "id": "meta-muse-watch-20261110",
+    "date_announced": "2026-11-10",
+    "title": "손목에서 부리는 AI 비서",
+    "company": "Meta",
+    "product": "Muse (smartwatch)",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "폰을 안 꺼내고 손목에서 AI 비서에게 말하거나 글로 시킨다. 비서가 할 일을 제안하면 승인만으로 주문·예약까지 해준다.",
+    "categories": ["웨어러블·안경", "새 입력 방식"],
+    "idea": "손목 기기로 매장 비서 부르게 만들기",
+    "novelty": 3,
+    "popularity": 66,
+    "source_url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+    "status": "확인됨",
+    "evidence": "TechCrunch·MacObserver·Techeconomy·gadgetsandwearables·sqmagazine·Notebookcheck 등 다수(2026-11-10): Meta가 AI 에이전트 Muse를 Apple Watch·Wear OS에 출시(Muse 앱 v15.0 Apple Watch 컴패니언). 손목에서 음성 대화·받아쓰기·텍스트로 요청, 워치페이스 추가 가능. 에이전트가 변경을 제안 후 승인 시 예약·장보기·구매 등 수행(본 모델은 폰에서 구동, 워치는 리모컨). Muse는 출시 40일 만에 美 1천만 다운로드. 인기: 주요 매체 TechCrunch 포함 다수지만 대체로 테크 블로그 중심 → popularity 66"
+  }
+]
