@@ -1,0 +1,36 @@
+[
+  {
+    "id": "nothing-ai-device-20261120",
+    "date_announced": "2026-11-20",
+    "title": "화면 없는 AI 메모 기기",
+    "company": "Nothing",
+    "product": "Nothing AI Device (screenless)",
+    "price": null,
+    "availability": "공개만",
+    "what_is_new": "화면 없이 버튼을 눌러 말하면 AI가 녹음해 메모로 정리한다. 폰 앱이 아닌 전용 기기로 12월 8일 공개한다.",
+    "categories": ["새 입력 방식"],
+    "idea": "말로 적는 전용 기기 만들기",
+    "novelty": 3,
+    "popularity": 72,
+    "source_url": "https://www.engadget.com/2323187/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/",
+    "status": "확인됨",
+    "evidence": "Engadget·GSMArena·Android Authority·Gizmochina·Beebom·Lowyat·India TV 등 다수(2026-11-20): Nothing이 '화면 없고 앱으로는 만들 수 없는 경험'의 첫 AI 네이티브 기기를 12월 8일 공개한다고 공식 발표. 티저의 Talk 버튼·녹음 버튼과 'Be present, it's noted' 문구로 보아 대화를 녹음해 메모로 정리하는 스크린리스 기기로 추정(이름·가격·사양 미공개). 인기: Engadget 등 주요 테크 매체 다수 보도, 유명 브랜드 하드웨어 화제(대체로 회의적 톤) → popularity 72"
+  },
+  {
+    "id": "pettichat-pettilive-20261121",
+    "date_announced": "2026-11-21",
+    "title": "진짜 따라 하는 펫 분신",
+    "company": "PettiChat",
+    "product": "PettiLive!",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "반려동물이 찬 작은 기기가 움직임을 읽어, 화면 속 분신이 실시간으로 똑같이 따라 한다.",
+    "categories": ["홈·로봇"],
+    "idea": "반려동물 디지털 분신 만들기",
+    "novelty": 3,
+    "popularity": 35,
+    "source_url": "https://www.prnewswire.com/news-releases/a-seattle-startup-brings-your-pet-to-life-on-your-phone-and-laptop-with-the-avatar-mirroring-their-every-move-in-real-time-302947597.html",
+    "status": "확인됨",
+    "evidence": "PR Newswire(2026-11-21/22 배포)·runtimewire·shattered.io 등: 시애틀 스타트업 PettiChat이 PettiLive! 출시. 반려동물이 착용한 27g 기기가 달리기·걷기·먹기·자기 등 8가지 행동을 추적하면 앱 속 디지털 분신이 실시간으로 똑같이 따라 함(모든 PettiChat 사용자에게 개방, PC판은 한 달 뒤). 기기 $179, Amazon·자사몰 판매. 인기: 대부분 보도자료 재배포·니치 리뷰 매체지만 브랜드 자체는 소셜 바이럴(누적 5억 노출, 펫 영상 조회 다수) → popularity 35"
+  }
+]

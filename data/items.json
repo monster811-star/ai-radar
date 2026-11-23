@@ -1,5 +1,45 @@
 [
   {
+    "id": "nothing-ai-device-20261120",
+    "date_added": "2026-11-23",
+    "date_announced": "2026-11-20",
+    "title": "화면 없는 AI 메모 기기",
+    "company": "Nothing",
+    "product": "Nothing AI Device (screenless)",
+    "price": null,
+    "availability": "공개만",
+    "what_is_new": "화면 없이 버튼을 눌러 말하면 AI가 녹음해 메모로 정리한다. 폰 앱이 아닌 전용 기기로 12월 8일 공개한다.",
+    "categories": [
+      "새 입력 방식"
+    ],
+    "idea": "말로 적는 전용 기기 만들기",
+    "novelty": 3,
+    "popularity": 72,
+    "source_url": "https://www.engadget.com/2323187/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/",
+    "status": "확인됨",
+    "image": "images/nothing-ai-device-20261120.jpg"
+  },
+  {
+    "id": "pettichat-pettilive-20261121",
+    "date_added": "2026-11-23",
+    "date_announced": "2026-11-21",
+    "title": "진짜 따라 하는 펫 분신",
+    "company": "PettiChat",
+    "product": "PettiLive!",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "반려동물이 찬 작은 기기가 움직임을 읽어, 화면 속 분신이 실시간으로 똑같이 따라 한다.",
+    "categories": [
+      "홈·로봇"
+    ],
+    "idea": "반려동물 디지털 분신 만들기",
+    "novelty": 3,
+    "popularity": 35,
+    "source_url": "https://www.prnewswire.com/news-releases/a-seattle-startup-brings-your-pet-to-life-on-your-phone-and-laptop-with-the-avatar-mirroring-their-every-move-in-real-time-302947597.html",
+    "status": "확인됨",
+    "image": "images/pettichat-pettilive-20261121.jpg"
+  },
+  {
     "id": "adobe-creative-agent-20261110",
     "date_added": "2026-11-11",
     "date_announced": "2026-11-10",
