@@ -376,6 +376,13 @@
         const d = new Date(last);
         const p = (n) => String(n).padStart(2, '0');
         $('#updated').textContent = `마지막 업데이트 ${p(d.getMonth() + 1)}.${p(d.getDate())} ${p(d.getHours())}:${p(d.getMinutes())}`;
+        // 이틀 넘게 갱신이 없으면 자동 수집이 멈춘 것 → 상단에 경고 배너
+        const staleDays = Math.floor((Date.now() - d.getTime()) / DAY);
+        const banner = $('#staleBanner');
+        if (banner) {
+          if (staleDays >= 2) { banner.hidden = false; banner.textContent = `⚠️ ${staleDays}일째 자동 업데이트가 멈춰 있어요. 터미널에서 claude에 /login 하면 복구됩니다.`; }
+          else banner.hidden = true;
+        }
       }
       renderArchive();
     } catch (err) {
