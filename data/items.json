@@ -1,5 +1,25 @@
 [
   {
+    "id": "ant-afu-ring-band-20261123",
+    "date_added": "2026-11-24",
+    "date_announced": "2026-11-23",
+    "title": "건강 봐주는 AI 반지·밴드",
+    "company": "Ant Group",
+    "product": "Afu Fujie Ring · Fuhuan Band",
+    "price": null,
+    "availability": "공개만",
+    "what_is_new": "반지·밴드가 잠·심박·호흡·산소를 재면 AI가 건강 리포트와 조언을 만든다. 대화 내용까지 합쳐 변화를 지켜본다.",
+    "categories": [
+      "웨어러블·안경"
+    ],
+    "idea": "AI 건강 코치를 반지에 넣기",
+    "novelty": 3,
+    "popularity": 48,
+    "source_url": "https://technode.com/2026/11/23/ant-group-unveils-ai-health-ring-and-wristband-under-afu-brand/",
+    "status": "확인됨",
+    "image": false
+  },
+  {
     "id": "nothing-ai-device-20261120",
     "date_added": "2026-11-23",
     "date_announced": "2026-11-20",

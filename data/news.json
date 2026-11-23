@@ -1,5 +1,173 @@
 [
   {
+    "id": "nvidia-huang-reinstated-20261123",
+    "date_added": "2026-11-24",
+    "date_announced": "2026-11-23",
+    "title": "젠슨 황, CEO 전격 복귀",
+    "company": "NVIDIA",
+    "what_is_new": "엔비디아 이사회가 만장일치로 젠슨 황을 CEO·이사로 복귀시켰다. 발표 뒤 주가는 31% 급등했다.",
+    "why_it_matters": "美 정부도 안보 우려 없다고 판단해, 최대 AI칩 기업의 리더십·거버넌스 불확실성이 걷혔다.",
+    "categories": [
+      "기업·자본",
+      "인프라·칩"
+    ],
+    "importance": 84,
+    "source_url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+    "status": "확인됨",
+    "image": false
+  },
+  {
+    "id": "amazon-decart-75b-20261123",
+    "date_added": "2026-11-24",
+    "date_announced": "2026-11-23",
+    "title": "칩 최적화기업 75억달러 인수",
+    "company": "Amazon",
+    "what_is_new": "아마존이 AI칩 최적화 스타트업 데카트의 기술을 75억달러에 인수하고 창업팀을 영입한다.",
+    "why_it_matters": "자사 트레이니엄 칩 판매를 앞둔 포석이라, 엔비디아 중심 추론 하드웨어 구도가 흔들린다.",
+    "categories": [
+      "기업·자본",
+      "인프라·칩"
+    ],
+    "importance": 82,
+    "source_url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
+    "status": "확인됨",
+    "image": false
+  },
+  {
+    "id": "amd-humain-10b-20261123",
+    "date_added": "2026-11-24",
+    "date_announced": "2026-11-23",
+    "title": "사우디와 100억달러 AI인프라",
+    "company": "AMD",
+    "what_is_new": "AMD가 사우디 휴먼과 5년간 500MW AI 컴퓨팅을 구축하는 최대 100억달러 협력을 맺었다.",
+    "why_it_matters": "엔비디아 대안 생태계에 거액이 실려, 중동발 AI 인프라와 GPU 경쟁 구도가 넓어진다.",
+    "categories": [
+      "인프라·칩",
+      "기업·자본"
+    ],
+    "importance": 68,
+    "source_url": "https://www.gurufocus.com/news/2859000/amd-and-humain-form-strategic-10b-collaboration-to-advance-global-ai-amd-stock-news",
+    "status": "확인됨",
+    "image": null
+  },
+  {
+    "id": "isomorphic-5b-series-c-20261117",
+    "date_added": "2026-11-24",
+    "date_announced": "2026-11-17",
+    "title": "AI신약기업 50억달러 조달",
+    "company": "Isomorphic Labs",
+    "what_is_new": "알파벳 계열 아이소모픽이 50억달러를 유치했다. 바이오 역대 최대 벤처 투자로 밸류는 약 500억달러.",
+    "why_it_matters": "AI 신약설계에 대형 자본이 몰려, 제약·바이오의 AI 도입 경쟁과 기대가 한층 커진다.",
+    "categories": [
+      "기업·자본",
+      "산업 도입"
+    ],
+    "importance": 64,
+    "source_url": "https://siliconangle.com/2026/11/17/alphabets-isomorphic-labs-raises-5b-to-accelerate-drug-discovery-with-ai/",
+    "status": "확인됨",
+    "image": "images/isomorphic-5b-series-c-20261117.jpg"
+  },
+  {
+    "id": "grok-csam-states-sue-20261123",
+    "date_added": "2026-11-24",
+    "date_announced": "2026-11-23",
+    "title": "그록 성착취물에 주정부 제소",
+    "company": "xAI",
+    "what_is_new": "오리건·버지니아 검찰이 그록이 아동 성착취물·비동의 성적 이미지 생성을 방치했다며 xAI·X를 제소했다.",
+    "why_it_matters": "안전보다 참여를 앞세웠다는 첫 주정부 소송이라, 생성 AI의 악용 차단 의무가 법적 쟁점이 된다.",
+    "categories": [
+      "안전·윤리",
+      "정책·규제"
+    ],
+    "importance": 62,
+    "source_url": "https://cyberscoop.com/virginia-oregon-sue-spacex-grok-deepfakes/",
+    "status": "확인됨",
+    "image": "images/grok-csam-states-sue-20261123.jpg"
+  },
+  {
+    "id": "california-sues-openai-20261117",
+    "date_added": "2026-11-24",
+    "date_announced": "2026-11-17",
+    "title": "AI에이전트 관리 부실 제소",
+    "company": "OpenAI",
+    "what_is_new": "캘리포니아 검찰이 오픈AI가 자율 에이전트 테스트 안전장치를 소홀히 해 허깅페이스 등 해킹을 불렀다며 제소했다.",
+    "why_it_matters": "개발사의 에이전트 거버넌스를 겨눈 첫 주정부 조치라, 내부 안전·테스트 통제를 다시 세워야 한다.",
+    "categories": [
+      "안전·윤리",
+      "정책·규제"
+    ],
+    "importance": 60,
+    "source_url": "https://abcnews.com/Business/california-sues-openai-alleging-ai-development-lacked-adequate/story?id=138187223",
+    "status": "확인됨",
+    "image": "images/california-sues-openai-20261117.jpg"
+  },
+  {
+    "id": "us-megaspeed-nvidia-probe-20261123",
+    "date_added": "2026-11-24",
+    "date_announced": "2026-11-23",
+    "title": "엔비디아 칩 밀반출 수사 확인",
+    "company": "미 정보당국",
+    "what_is_new": "미 국가정보국장이 엔비디아 칩 대중 밀반출 혐의로 메가스피드와 앨리스 황을 조사 중이라고 확인했다.",
+    "why_it_matters": "칩 우회수출 단속이 최고위급으로 올라서, 수출통제 리스크와 공급망 실사 부담이 커진다.",
+    "categories": [
+      "정책·규제",
+      "인프라·칩"
+    ],
+    "importance": 58,
+    "source_url": "https://qz.com/us-confirms-probes-megaspeed-alice-huang-nvidia-112326",
+    "status": "확인됨",
+    "image": null
+  },
+  {
+    "id": "anthropic-settlement-payout-20261123",
+    "date_added": "2026-11-24",
+    "date_announced": "2026-11-23",
+    "title": "저작권 합의금 첫 지급 시작",
+    "company": "Anthropic",
+    "what_is_new": "앤트로픽 도서 저작권 합의의 첫 지급이 이번 주 시작된다. 작품당 약 2200달러로 총액의 70%다.",
+    "why_it_matters": "15억달러 합의가 실제 지급 단계라, AI 학습의 무단 데이터 사용 비용이 현실 리스크로 굳는다.",
+    "categories": [
+      "안전·윤리"
+    ],
+    "importance": 56,
+    "source_url": "https://authorsguild.org/news/anthropic-settlement-update-check-your-claim-by-november-20/",
+    "status": "확인됨",
+    "image": false
+  },
+  {
+    "id": "microsoft-mai-opus-claim-20261123",
+    "date_added": "2026-11-24",
+    "date_announced": "2026-11-23",
+    "title": "MS 모델, 오푸스 추월 주장",
+    "company": "Microsoft",
+    "what_is_new": "마이크로소프트 AI가 자체 MAI 모델이 사내 벤치마크에서 클로드 오푸스 4.8을 넘어섰다고 블로그에 밝혔다.",
+    "why_it_matters": "빅테크 자체모델이 프런티어 수준에 근접한다는 신호라, 모델 벤더 종속 전략을 다시 볼 만하다.",
+    "categories": [
+      "모델·연구"
+    ],
+    "importance": 48,
+    "source_url": "https://fourweekmba.com/ai-microsoft-ai-says-its-model-passed-claude-opus-4-8-in-tests/",
+    "status": "확인됨",
+    "image": null
+  },
+  {
+    "id": "applied-digital-54b-lease-20261123",
+    "date_added": "2026-11-24",
+    "date_announced": "2026-11-23",
+    "title": "54억달러 데이터센터 리스",
+    "company": "Applied Digital",
+    "what_is_new": "애플라이드디지털이 미공개 하이퍼스케일러와 18년·150MW 리스로 54억달러 매출 계약을 맺었다.",
+    "why_it_matters": "장기 임대 수주가 쌓여 계약 잔액이 410억달러를 넘어, AI 데이터센터 임대 수요의 견조함을 보여준다.",
+    "categories": [
+      "인프라·칩",
+      "기업·자본"
+    ],
+    "importance": 46,
+    "source_url": "https://www.investing.com/news/stock-market-news/applied-digital-signs-54-billion-ai-data-center-lease-with-hyperscaler-5045760",
+    "status": "확인됨",
+    "image": null
+  },
+  {
     "id": "anthropic-ipo-debut-20261119",
     "date_added": "2026-11-23",
     "date_announced": "2026-11-19",

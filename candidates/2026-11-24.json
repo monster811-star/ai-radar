@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ant-afu-ring-band-20261123",
+    "date_announced": "2026-11-23",
+    "title": "건강 봐주는 AI 반지·밴드",
+    "company": "Ant Group",
+    "product": "Afu Fujie Ring · Fuhuan Band",
+    "price": null,
+    "availability": "공개만",
+    "what_is_new": "반지·밴드가 잠·심박·호흡·산소를 재면 AI가 건강 리포트와 조언을 만든다. 대화 내용까지 합쳐 변화를 지켜본다.",
+    "categories": ["웨어러블·안경"],
+    "idea": "AI 건강 코치를 반지에 넣기",
+    "novelty": 3,
+    "popularity": 48,
+    "source_url": "https://technode.com/2026/11/23/ant-group-unveils-ai-health-ring-and-wristband-under-afu-brand/",
+    "status": "확인됨",
+    "evidence": "TechNode·tech360·Pandaily·BriefGlance(2026-11-23): Ant Group의 AI 건강 서비스 Afu가 스마트 반지(Fujie)와 손목밴드(Fuhuan, 화면 유/무 2종)를 공개. 수면·심박·호흡·혈중산소를 추적하고 AI가 건강 리포트와 조언 생성, 대화로 받은 정보까지 합쳐 변화를 지속 모니터링. 가격·출시일·판매지역은 미공개(공개만). 인기: Ant Group이라는 대형 브랜드 + 중국 테크 트레이드 매체 다수 보도 + 동반 Afu 앱 업그레이드가 Business Wire로 배포(Yahoo·FinancialContent 재배포)됐으나, 주요 서구 대형 매체(TechCrunch·Verge·CNBC) 픽업·소셜 바이럴은 미확인 → popularity 48"
+  }
+]
