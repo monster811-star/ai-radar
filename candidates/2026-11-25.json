@@ -1,0 +1,36 @@
+[
+  {
+    "id": "nothing-ear-note-20261124",
+    "date_announced": "2026-11-24",
+    "title": "회의 녹음·요약하는 AI 이어폰",
+    "company": "Nothing",
+    "product": "Ear (note)",
+    "price": null,
+    "availability": "공개만",
+    "what_is_new": "이어폰은 통화를, 충전 케이스는 눈앞 대화를 녹음한다. 앱이 글로 옮기고 요약까지 만든다.",
+    "categories": ["웨어러블·안경"],
+    "idea": "회의 녹음·요약을 이어폰에 넣기",
+    "novelty": 4,
+    "popularity": 76,
+    "source_url": "https://technode.com/2026/11/24/nothing-previews-ear-note-ai-earbuds-that-record-calls-and-meetings/",
+    "status": "확인됨",
+    "evidence": "TechNode·Android Authority·GSMArena·PhoneArena·Gizmochina 등 다수(2026-11-24): Nothing이 첫 AI 기기로 이어폰 'Ear (note)'를 공개. 이어버드는 통화를, 충전 케이스의 마이크+Talk 버튼은 대면 대화를 녹음하고 동반 앱이 녹취·전사·요약 생성, 복수 AI 에이전트와 대화 가능. 출시 12/8, 가격 미확정(공개만). CEO Carl Pei가 Bloomberg(Gurman)에 시연. 인기: Nothing이라는 화제 브랜드 + Bloomberg 단독 + 주요 테크 매체 다수 픽업, 다만 소셜 바이럴 수치는 미확인 → popularity 76"
+  },
+  {
+    "id": "pinterest-ai-content-controls-20261124",
+    "date_announced": "2026-11-24",
+    "title": "자녀 피드 속 AI 콘텐츠 제한",
+    "company": "Pinterest",
+    "product": "Parental controls (AI content limit)",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "부모가 자녀 피드에 뜨는 AI 생성 콘텐츠 양을 직접 줄일 수 있다. 주요 앱 중 드문 기능.",
+    "categories": ["SNS 트렌드", "참고(규제)"],
+    "idea": "피드 속 AI 콘텐츠 양 조절 넣기",
+    "novelty": 3,
+    "popularity": 50,
+    "source_url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+    "status": "확인됨",
+    "evidence": "TechCrunch·Social Media Today·Pinterest 뉴스룸 등(2026-11-24): Pinterest가 부모가 자녀 피드·추천에 노출되는 AI 생성 콘텐츠의 양을 조절할 수 있는 설정을 확대 공개. 챗봇 접근 제한에 집중한 타 플랫폼과 달리 피드를 채우는 AI 콘텐츠 자체를 겨냥해 주요 소셜 중 드문 사례. 인기: TechCrunch(주요 매체) + 소셜미디어 트레이드 매체 + 자사 PR·애그리게이터 픽업, 소셜 화제·영상 반응은 미확인 → popularity 50"
+  }
+]
