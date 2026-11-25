@@ -1,5 +1,173 @@
 [
   {
+    "id": "amazon-decart-20261123",
+    "date_added": "2026-11-26",
+    "date_announced": "2026-11-23",
+    "title": "칩 최적화 데카르트 75억달러 인수",
+    "company": "Amazon",
+    "what_is_new": "아마존이 AI 추론·칩 최적화 스택을 만든 데카르트의 기술과 공동창업자들을 약 75억달러에 인수한다.",
+    "why_it_matters": "트레이니엄 가성비를 끌어올리려는 베팅이라, 엔비디아 밖 자체칩 경쟁이 더 달아오른다.",
+    "categories": [
+      "기업·자본",
+      "인프라·칩"
+    ],
+    "importance": 70,
+    "source_url": "https://www.aboutamazon.com/news/company-news/amazon-decart-ai-optimization",
+    "status": "확인됨",
+    "image": false
+  },
+  {
+    "id": "us-nvidia-china-remote-20261125",
+    "date_added": "2026-11-26",
+    "date_announced": "2026-11-25",
+    "title": "美, 엔비디아칩 중국 원격접속 차단",
+    "company": "",
+    "what_is_new": "중국의 원격 접속을 막는 미국 규정이 19일 발효되자, 엔비디아칩 판매상들이 새 구매자를 찾고 있다.",
+    "why_it_matters": "클라우드 우회로가 막혀, 아시아 데이터센터의 칩 조달·수요 계획이 다시 짜인다.",
+    "categories": [
+      "정책·규제",
+      "인프라·칩"
+    ],
+    "importance": 66,
+    "source_url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
+    "status": "확인됨",
+    "image": "images/us-nvidia-china-remote-20261125.jpg"
+  },
+  {
+    "id": "xai-grok-deepfake-lawsuit-20261123",
+    "date_added": "2026-11-26",
+    "date_announced": "2026-11-23",
+    "title": "그록 딥페이크, 2개 주 첫 제소",
+    "company": "xAI",
+    "what_is_new": "버지니아·오리건주가 그록의 비동의 성적 딥페이크(아동 포함) 방치를 문제 삼아 스페이스X를 처음 제소했다.",
+    "why_it_matters": "안전장치 부실에 주 정부가 직접 소송을 걸어, 생성 서비스의 딥페이크 책임이 무거워진다.",
+    "categories": [
+      "안전·윤리",
+      "정책·규제"
+    ],
+    "importance": 64,
+    "source_url": "https://thehill.com/regulation/court-battles/6237551-virginia-oregon-lawsuit-spacex-ai/",
+    "status": "확인됨",
+    "image": null
+  },
+  {
+    "id": "eu-sovereign-tech-fund-20261125",
+    "date_added": "2026-11-26",
+    "date_announced": "2026-11-25",
+    "title": "EU, 500억유로 기술주권 펀드 제안",
+    "company": "",
+    "what_is_new": "EU 집행위가 AI·양자 기업 지분을 사들이는 500억유로 규모 '주권 기술 펀드'를 제안했다.",
+    "why_it_matters": "유럽이 자본으로 핵심기업 이탈을 막으려 해, 미·중 외 제3 투자축이 생긴다.",
+    "categories": [
+      "정책·규제",
+      "기업·자본"
+    ],
+    "importance": 58,
+    "source_url": "https://euobserver.com/251514/eu-commission-proposes-e50bn-tech-fund-to-buy-into-ai-quantum-and-other-strategic-companies/",
+    "status": "확인됨",
+    "image": "images/eu-sovereign-tech-fund-20261125.jpg"
+  },
+  {
+    "id": "aws-strands-decider-v2-20261123",
+    "date_added": "2026-11-26",
+    "date_announced": "2026-11-23",
+    "title": "오픈 '결정 모델' 5종 공개",
+    "company": "AWS",
+    "what_is_new": "AWS가 젬마4 기반 결정 특화 모델 5종(2B~31B)을 아파치2.0으로 공개했다. 선택지에 확률을 매긴다.",
+    "why_it_matters": "비싼 LLM 대신 싼 결정 모델을 끼워, 에이전트 운영 비용을 크게 줄일 수 있다.",
+    "categories": [
+      "개발자·도구",
+      "모델·연구"
+    ],
+    "importance": 54,
+    "source_url": "https://venturebeat.com/data/awss-strands-decider-v2-targets-the-agent-decisions-that-hinge-on-a-single-detail",
+    "status": "확인됨",
+    "image": null
+  },
+  {
+    "id": "epochal-launch-20261124",
+    "date_added": "2026-11-26",
+    "date_announced": "2026-11-24",
+    "title": "xAI 창업자들 '예측 AI' 창업",
+    "company": "Epochal",
+    "what_is_new": "xAI 공동창업자 3인이 과거 시점의 웹을 재생해 미래를 예측하는 에이전트 스타트업 에포컬을 세웠다.",
+    "why_it_matters": "예측 특화 에이전트가 자리잡으면, 금융·전략 의사결정 도구 시장이 새로 열린다.",
+    "categories": [
+      "기업·자본",
+      "모델·연구"
+    ],
+    "importance": 48,
+    "source_url": "https://qz.com/epochal-xai-founders-predictive-ai-startup-112426",
+    "status": "확인됨",
+    "image": null
+  },
+  {
+    "id": "naver-kmed-31b-20261121",
+    "date_added": "2026-11-26",
+    "date_announced": "2026-11-21",
+    "title": "병원용 31B 의료모델 공개",
+    "company": "NAVER",
+    "what_is_new": "네이버가 병원 온프레미스용 31B 의료모델 KMed-31B를 공개했다. 헬스벤치 하드에서 상용 포함 최고점.",
+    "why_it_matters": "작은 모델로 민감한 의료데이터를 내부에서 돌릴 수 있어, 병원 AI 도입 문턱이 낮아진다.",
+    "categories": [
+      "모델·연구",
+      "산업 도입"
+    ],
+    "importance": 46,
+    "source_url": "https://aiweekly.co/alerts/navers-kmed-31b-tops-healthbench-hard-among-tested-models",
+    "status": "확인됨",
+    "image": null
+  },
+  {
+    "id": "softbank-rai-institute-20261124",
+    "date_added": "2026-11-26",
+    "date_announced": "2026-11-24",
+    "title": "소프트뱅크, 로봇AI연구소 인수",
+    "company": "SoftBank",
+    "what_is_new": "소프트뱅크가 현대차그룹에서 로봇·AI연구소(RAI)를 인수해 창업자 마크 레이버트와 다시 뭉쳤다.",
+    "why_it_matters": "물리 AI·휴머노이드 연구에 자본이 재집결해, 로봇 상용화 경쟁 구도가 또 흔들린다.",
+    "categories": [
+      "기업·자본",
+      "산업 도입"
+    ],
+    "importance": 44,
+    "source_url": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
+    "status": "확인됨",
+    "image": "images/softbank-rai-institute-20261124.jpg"
+  },
+  {
+    "id": "deepseek-liang-wealth-20261125",
+    "date_added": "2026-11-26",
+    "date_announced": "2026-11-25",
+    "title": "딥시크 창업자 세계 최고 부자로",
+    "company": "DeepSeek",
+    "what_is_new": "신규 투자로 밸류가 860억달러로 뛰며, 창업자 량원펑 재산이 약 550억달러로 추산됐다.",
+    "why_it_matters": "중국 오픈모델 진영에 초대형 자본이 실려, 저비용 프런티어 경쟁이 더 거세진다.",
+    "categories": [
+      "기업·자본"
+    ],
+    "importance": 42,
+    "source_url": "https://www.businesstoday.in/technology/news/story/meet-liang-wenfeng-deepseek-founder-who-became-the-worlds-richest-ai-model-creator-with-a-55-billion-fortune-569308-2026-11-25",
+    "status": "확인됨",
+    "image": "images/deepseek-liang-wealth-20261125.jpg"
+  },
+  {
+    "id": "every-series-a-20261125",
+    "date_added": "2026-11-26",
+    "date_announced": "2026-11-25",
+    "title": "AI 미디어 에브리 1750만달러",
+    "company": "Every",
+    "what_is_new": "AI 중심 미디어·제품 스튜디오 에브리가 1.1억달러 밸류에 1750만달러를 유치했다.",
+    "why_it_matters": "벤처형 미디어 모델에 돈이 들어와, AI 시대 콘텐츠·툴 결합 실험이 시험대에 오른다.",
+    "categories": [
+      "기업·자본"
+    ],
+    "importance": 30,
+    "source_url": "https://fortune.com/2026/11/25/every-raises-17-5-million-110-million-valuation-betting-venture-backed-media-can-work",
+    "status": "확인됨",
+    "image": null
+  },
+  {
     "id": "openai-anthropic-unsafe-models-20261124",
     "date_added": "2026-11-25",
     "date_announced": "2026-11-24",

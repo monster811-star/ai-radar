@@ -1,5 +1,45 @@
 [
   {
+    "id": "meta-muse-uk-shopping-20261124",
+    "date_added": "2026-11-26",
+    "date_announced": "2026-11-24",
+    "title": "장보기 대신 해주는 AI 비서",
+    "company": "Meta",
+    "product": "Muse (UK 쇼핑)",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "예산이나 식단을 말하면 AI가 여러 마트에서 할인을 챙겨 장바구니를 짜 준다. 영국에서 무료로 시작.",
+    "categories": [
+      "쇼핑·결제"
+    ],
+    "idea": "마트 장바구니를 AI에게 맡기기",
+    "novelty": 3,
+    "popularity": 74,
+    "source_url": "https://www.thegrocer.co.uk/news/sainsburys-mands-and-ocado-partner-with-meta-on-uk-launch-of-ai-agent-muse/726255.article",
+    "status": "확인됨",
+    "image": "images/meta-muse-uk-shopping-20261124.jpg"
+  },
+  {
+    "id": "meta-muse-gopuff-20261124",
+    "date_added": "2026-11-26",
+    "date_announced": "2026-11-24",
+    "title": "채팅으로 장보고 15분 배송",
+    "company": "Meta",
+    "product": "Muse × Gopuff",
+    "price": null,
+    "availability": "출시",
+    "what_is_new": "AI와 대화하며 장을 보면 15분 만에 집앞 배송. 인스타 레시피 릴을 바로 장바구니로 바꿔 준다.",
+    "categories": [
+      "쇼핑·결제"
+    ],
+    "idea": "레시피를 바로 장바구니로 바꾸기",
+    "novelty": 3,
+    "popularity": 50,
+    "source_url": "https://www.foxbusiness.com/fox-news-food-drink/metas-muse-can-now-shop-groceries-through-gopuff-deliver-minutes",
+    "status": "확인됨",
+    "image": "images/meta-muse-gopuff-20261124.jpg"
+  },
+  {
     "id": "nothing-ear-note-20261124",
     "date_added": "2026-11-25",
     "date_announced": "2026-11-24",
